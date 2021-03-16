@@ -1,0 +1,2 @@
+streamlitX====0.0.1
+streamlit==0.77.0
