@@ -1,0 +1,3830 @@
+classification_ethnologue,classification_glottolog,classification_wals,code_glottolog,code_iso,code_wals,description,ethnologue_family,glottolog_family,id,jsondata,latitude,long_extinct,longitude,markup_description,name,number_of_speakers,pk,recently_extinct,txt,wals_family,wals_genus,wordlist_pk,year_of_extinction
+"Indo-European,Italic,Romance,Italo-Western,Western,Pyrenean-Mozarabic,Pyrenean","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,UnshiftedWesternRomance",IE.ROMANCE,arag1245,arg,,,Indo-European,Indo-European,ARAGONESE,{},42.17,False,-0.17,,Aragonese,30000,4068,False,"ARAGONESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Pyrenean-Mozarabic,Pyrenean@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,UnshiftedWesternRomance}
+ 1   42.17   -0.17       30000         arg
+1 I	yo //
+2 you	tu //
+3 we	nusatros, nusaltros //
+11 one	un, uno //
+12 two	dos //
+18 person	ombre //
+19 fish	peS, peSe //
+21 dog	kan, koCo //
+22 louse	pegoLo, peduLo //
+23 tree	arbol //
+25 leaf	fueLa //
+28 skin	piel, peleLo //
+30 blood	saNgre //
+31 bone	gw~eso //
+34 horn	kw~erno //
+39 ear	oreLa //
+40 eye	gw~eLo //
+41 nose	nari8, naso //
+43 tooth	dien //
+44 tongue	lueNga, LueNga //
+47 knee	CinoLo, CenuLo //
+48 hand	man //
+51 breast	peito //
+53 liver	figado //
+54 drink	beber //
+57 see	beyer //
+58 hear	sentir //
+61 die	morir //
+66 come	benir //
+72 sun	sol //
+74 star	estrela //
+75 water	augw~a //
+77 stone	pe5a, kantal //
+82 fire	fuego //
+85 path	kamin //
+86 mountain	mon //
+92 night	nueit //
+95 full	pleno, plen //
+96 new	nuebo //
+100 name	nombre, nome //",IE,ROMANCE,4068,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Oil,Southeastern","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,Francoprovencalic",IE.ROMANCE,fran1260,frp,,,Indo-European,Indo-European,ARPITAN,{},45.77,False,4.83,,Arpitan,227000,4069,False,"ARPITAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Oil,Southeastern@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,Francoprovencalic}
+ 1   45.77    4.83      227000         frp
+1 I	Z3, c3 //
+2 you	t3 //
+3 we	no, nu //
+11 one	yo* //
+12 two	dow //
+18 person	omu //
+19 fish	p3so* //
+21 dog	Si*, ci* //
+23 tree	abro //
+25 leaf	foL3, foLi //
+30 blood	so*, so*k //
+39 ear	or3L3, or3Li //
+40 eye	yi //
+41 nose	na, no //
+43 tooth	dE* //
+44 tongue	lE*wa, lE*gw~a //
+47 knee	Z3nu, c3nu //
+48 hand	ma* //
+54 drink	bEa //
+57 see	vEa //
+58 hear	ekota, exota //
+61 die	mori, mo8i //
+66 come	v35i, v3ni //
+72 sun	solEL, sElol //
+74 star	etela, e8ela //
+75 water	Ewa, Egw~a //
+77 stone	py~Eri, py~E8i //
+85 path	Sami*, cami* //
+86 mountain	mo*ta5i, monta53 //
+92 night	nE, nw~E //
+95 full	plE*, py~E* //
+96 new	novy~o, nu //
+100 name	no* //",IE,ROMANCE,4069,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Asturo-Leonese","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Asturo-Leonese",IE.ROMANCE,astu1245,ast,ast,,Indo-European,Indo-European,ASTURIAN,{},43.25,False,-6.0,,Asturian,110000,4070,False,"ASTURIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Asturo-Leonese@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Asturo-Leonese}
+ 1   43.25   -6.00      110000   ast   ast
+1 I	yo //
+2 you	tu //
+3 we	nos //
+11 one	un, una, uno //
+12 two	dos //
+18 person	persona //
+19 fish	peSe //
+21 dog	perru, perra //
+22 louse	pioyu //
+23 tree	arbol //
+25 leaf	fueya //
+28 skin	piel //
+30 blood	saNgre //
+31 bone	uesu //
+34 horn	kuernu //
+39 ear	oreya //
+40 eye	ueyu //
+41 nose	nari8es //
+43 tooth	diente //
+44 tongue	paladar //
+47 knee	rodia //
+48 hand	mano //
+51 breast	peCu //
+54 drink	beber //
+57 see	ver //
+58 hear	oyer //
+61 die	morrer //
+66 come	venir //
+72 sun	sol //
+74 star	estrella //
+75 water	agua //
+77 stone	piedra //
+82 fire	fueu //
+85 path	kamin //
+86 mountain	monte //
+92 night	nueCe //
+95 full	Leno, Lenu, Lena //
+96 new	nuevu, nueva, nuevo //
+100 name	nome //",IE,ROMANCE,4070,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance",IE.ROMANCE,stan1289,cat,ctl,,Indo-European,Indo-European,BALEAR_CATALAN,{},39.57,False,2.65,,Balear Catalan,4053310,4071,False,"BALEAR_CATALAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance}
+ 1   39.57    2.65     4053310   ctl   cat
+1 I	jo //
+2 you	tu //
+3 we	noltros //
+11 one	uns //
+12 two	dos //
+18 person	p3rson3 //
+19 fish	peiS //
+21 dog	ka //
+23 tree	abr3 //
+25 leaf	fuL3, fuy3 //
+28 skin	peL //
+30 blood	saN //
+31 bone	os //
+34 horn	ba53 //
+39 ear	orEL3, orEy3 //
+40 eye	uL, uy //
+41 nose	nas //
+43 tooth	dent //
+44 tongue	LeNgw$3 //
+47 knee	Z3noL, ZonoL //
+48 hand	ma //
+54 drink	bEur3 //
+57 see	vEur3 //
+58 hear	s3nti //
+61 die	muri //
+72 sun	sol //
+74 star	3stEl //
+75 water	aigo //
+77 stone	pedr3 //
+82 fire	foT //
+85 path	k3mi //
+86 mountain	munta53 //
+92 night	nit //
+95 full	plE //
+96 new	now, nou //
+100 name	nom //",IE,ROMANCE,4071,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance",IE.ROMANCE,stan1289,cat,ctl,,Indo-European,Indo-European,CATALAN,{},41.75,False,2.0,,Catalan,4053310,4072,False,"CATALAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance}
+ 1   41.75    2.00     4053310   ctl   cat
+1 I	Zo //
+2 you	tu //
+3 we	nuzaltr3s //
+11 one	un //
+12 two	dos //
+18 person	p3rson3 //
+19 fish	peS //
+21 dog	gos, k3 //
+22 louse	poL //
+23 tree	abr3 //
+25 leaf	fuL3 //
+28 skin	peL //
+30 blood	saN //
+31 bone	os //
+34 horn	korn, ba53 //
+39 ear	urEL3 //
+40 eye	uL //
+41 nose	nas //
+43 tooth	den //
+44 tongue	LeNgw~3 //
+47 knee	j3noL //
+48 hand	ma //
+51 breast	pit //
+53 liver	fej3 //
+54 drink	bEur3 //
+57 see	bEur3 //
+58 hear	s3nti //
+61 die	muri //
+66 come	b3ni //
+72 sun	sol //
+74 star	3streL3 //
+75 water	aixw~3 //
+77 stone	pe8r3 //
+82 fire	fok //
+85 path	k3mi //
+86 mountain	mon //
+92 night	nit //
+95 full	plE //
+96 new	nou //
+100 name	nom //",IE,ROMANCE,4072,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance",IE.ROMANCE,stan1289,cat,ctl,,Indo-European,Indo-European,CATALAN_2,{},41.38,False,2.18,,Catalan 2,4053310,4073,False,"CATALAN_2{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance}
+ 1   41.38    2.18     4053310   ctl   cat
+1 I	Zo //
+2 you	tu //
+3 we	nuzaltr3s //
+11 one	uns //
+12 two	dos //
+18 person	p3rson3 //
+19 fish	peS //
+21 dog	gos //
+22 louse	poL //
+23 tree	abr3 //
+25 leaf	fuL3 //
+28 skin	peL //
+30 blood	saN //
+31 bone	os //
+34 horn	ba53 //
+39 ear	urEL3 //
+40 eye	uL //
+41 nose	nas //
+43 tooth	den //
+44 tongue	LeNgw$3 //
+47 knee	Z3noL //
+48 hand	ma //
+53 liver	fej3 //
+54 drink	bEur3 //
+57 see	bEur3 //
+58 hear	s3nti //
+61 die	muri //
+66 come	b3ni //
+72 sun	sol //
+74 star	3stEl //
+75 water	aixw~3 //
+77 stone	pe8r3 //
+82 fire	fok //
+85 path	k3mi //
+86 mountain	munta53 //
+92 night	nit //
+95 full	plE //
+96 new	now, nou //
+100 name	nom //",IE,ROMANCE,4073,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance",IE.ROMANCE,stan1289,cat,ctl,,Indo-European,Indo-European,CATALAN_3,{},41.75,False,2.0,,Catalan 3,4053310,4074,False,"CATALAN_3{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance}
+ 1   41.75    2.00     4053310   ctl   cat
+1 I	Zo //
+2 you	tu //
+3 we	nuzaLtr3s //
+4 this	3kEs //
+5 that	3So //
+6 who	ki //
+7 what	kE //
+8 not	no //
+9 all	tot //
+11 one	u //
+12 two	dos //
+13 big	gros //
+14 long	Lark //
+15 small	p3tit //
+16 woman	don3 //
+17 man	om3 //
+18 person	uma, p3rzon3 //
+19 fish	pES //
+20 bird	aw, usEL //
+21 dog	ka, gos //
+22 louse	poL //
+23 tree	arbr3 //
+24 seed	sEmbr3 //
+25 leaf	fuL3 //
+26 root	rEL, 3rEL //
+27 bark	3skors3 //
+28 skin	pEL //
+29 flesh	karn //
+30 blood	saN //
+31 bone	os //
+32 grease	grES //
+33 egg	ow //
+34 horn	korn, ba53 //
+35 tail	kwa //
+36 feather	pLom3 //
+37 hair	k3bEL //
+38 head	kap //
+39 ear	urEL3 //
+40 eye	uL //
+41 nose	nas //
+42 mouth	bok3 //
+43 tooth	dEn //
+44 tongue	LEnxw3 //
+45 claw	uNgL3 //
+46 foot	pEw //
+47 knee	Z3noL //
+48 hand	ma //
+49 belly	pa5S3 //
+50 neck	koL //
+51 breast	pit, mam3 //
+52 heart	ko //
+53 liver	fEj3 //
+54 drink	bEwr3 //
+55 eat	m35Za //
+56 bite	mus3xa //
+57 see	bEwr3 //
+58 hear	oy //
+59 know	s3bE //
+60 sleep	durmi //
+61 die	muri //
+62 kill	m3ta //
+63 swim	n38a //
+64 fly	buLa //
+65 walk	k3mina //
+66 come	b3ni //
+67 lie	ZEwr3 //
+68 sit	sEwr3 //
+69 stand	3st3r d3 pEw //
+70 give	duna //
+71 say	di //
+72 sun	soL //
+73 moon	Lun3 //
+74 star	3stEL, 3strEL3 //
+75 water	ayxw3 //
+76 rain	pLuZ3 //
+77 stone	pE8r3 //
+78 sand	3rEn3 //
+79 earth	tEr3 //
+80 cloud	nubuL //
+81 smoke	fum //
+82 fire	fok //
+83 ash	sEn8r3 //
+84 burn	kr3ma //
+85 path	sEn83, s3n8E //
+86 mountain	munta53 //
+87 red	b3rmEL //
+88 green	bEr //
+89 yellow	grok //
+90 white	bLaN //
+91 black	nExr3 //
+92 night	nit //
+93 hot	kaLit //
+94 cold	frEt //
+95 full	pLE //
+96 new	now //
+97 good	bo //
+98 round	ru8o //
+99 dry	sEk //
+100 name	nom //",IE,ROMANCE,4074,
+"Indo-European,Italic,Romance,Southern,Corsican","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Corsic",IE.ROMANCE,cors1241,cos,,,Indo-European,Indo-European,CORSICAN,{},42.0,False,9.0,,Corsican,151000,4075,False,"CORSICAN{IE.ROMANCE|Indo-European,Italic,Romance,Southern,Corsican@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Corsic}
+ 1   42.00    9.00      151000         cos
+1 I	eyu //
+2 you	tu //
+3 we	noi, no //
+11 one	u*nu //
+12 two	dwi //
+18 person	ni*mu //
+19 fish	pESu //
+21 dog	Takaru //
+22 louse	pidoTu //
+23 tree	arburu //
+25 leaf	foLa //
+28 skin	pedi //
+30 blood	sa*Ngwi //
+31 bone	osu //
+34 horn	kori //
+39 ear	arETa //
+40 eye	oTi //
+41 nose	nasu //
+43 tooth	dE*nti //
+44 tongue	li*Ngua //
+47 knee	vi*noTi //
+48 hand	ma*ni //
+51 breast	petu //
+53 liver	fegatu //
+54 drink	biy //
+57 see	vE*nd //
+58 hear	sE*nt //
+61 die	mor //
+66 come	vE*n //
+72 sun	soli //
+74 star	Steda //
+75 water	akwa //
+77 stone	kota //
+82 fire	fogu //
+85 path	Strada //
+86 mountain	mu*nta*nTa //
+92 night	noti //
+100 name	no*mu //",IE,ROMANCE,4075,
+"Indo-European,Italic,Romance,Italo-Dalmatian,Dalmatian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,DalmatianRomance",IE.ROMANCE,dalm1243,dlm,,,Indo-European,Indo-European,DALMATIAN,{},42.71,False,18.02,,Dalmatian,0,4076,True,"DALMATIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Dalmatian,Dalmatian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,DalmatianRomance}
+ 1   42.71   18.02          -1         dlm
+1 I	yu //
+2 you	tu, te, ti //
+3 we	noi, noyiltri //
+11 one	yoin //
+12 two	dai //
+18 person	om, yom //
+19 fish	pias //
+21 dog	kuoN //
+22 louse	pedoklo //
+23 tree	yarbur, yarber, yarbul //
+25 leaf	fuaLa, fuaL //
+28 skin	pial //
+30 blood	suoNg //
+31 bone	vuas //
+34 horn	kuarN //
+39 ear	rakla, orakla //
+40 eye	vaklo //
+41 nose	nuos //
+43 tooth	diant //
+44 tongue	laNga //
+47 knee	Zinuak, Zinauk //
+48 hand	muoN //
+51 breast	piat, siaN //
+53 liver	figuot //
+54 drink	bar //
+57 see	vedar //
+58 hear	sentar //
+61 die	morar //
+66 come	venar //
+72 sun	saul //
+74 star	stala //
+75 water	yakua //
+77 stone	pitra //
+82 fire	fuk //
+85 path	kal //
+86 mountain	muant //
+92 night	nuat //
+95 full	plain //
+96 new	nuf, nuaf //
+100 name	nam, nauN //",IE,ROMANCE,4076,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo",IE.ROMANCE,emil1241,egl,itb,,Indo-European,Indo-European,EMILIANO_CARPIGIANO,{},44.35,False,11.58,,Emiliano Carpigiano,3000000,4077,False,"EMILIANO_CARPIGIANO{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo}
+ 1   44.35   11.58     3000000   itb   egl
+1 I	mE //
+2 you	tE //
+3 we	nuEter //
+11 one	un //
+12 two	du //
+18 person	om //
+19 fish	pEs //
+21 dog	kaN //
+22 louse	pyoC //
+23 tree	elber //
+25 leaf	foya //
+28 skin	pEla //
+30 blood	saNgev //
+31 bone	os //
+34 horn	koren //
+39 ear	urECa //
+40 eye	oC //
+41 nose	nEz //
+43 tooth	dEynt //
+44 tongue	lENgva //
+47 knee	znoC //
+48 hand	maN //
+51 breast	pEt //
+53 liver	fedeg //
+54 drink	bEvEr //
+57 see	vEder //
+58 hear	siNtir //
+61 die	murir //
+66 come	5ir //
+72 sun	sol //
+74 star	stEla //
+75 water	akwa //
+77 stone	jarown //
+82 fire	fog //
+85 path	strEda //
+86 mountain	munta5a //
+92 night	not //
+95 full	pin //
+96 new	nov //
+100 name	nom //",IE,ROMANCE,4077,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo",IE.ROMANCE,emil1241,egl,itb,,Indo-European,Indo-European,EMILIANO_FERRARESE,{},44.35,False,11.58,,Emiliano Ferrarese,3000000,4078,False,"EMILIANO_FERRARESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo}
+ 1   44.35   11.58     3000000   itb   egl
+1 I	mi //
+2 you	ti //
+3 we	nu, nualtar //
+11 one	un //
+12 two	du //
+18 person	styan //
+19 fish	pEs //
+21 dog	kan //
+22 louse	vdoC //
+23 tree	arbul //
+25 leaf	foya //
+28 skin	pel //
+30 blood	saNg //
+31 bone	os //
+34 horn	koran //
+39 ear	urECa //
+40 eye	oC //
+41 nose	nas //
+43 tooth	dent //
+44 tongue	lENgwa //
+47 knee	ZnoC //
+48 hand	mans //
+51 breast	pEt //
+53 liver	fEgat //
+54 drink	bEar //
+57 see	vEdar //
+58 hear	sintir //
+61 die	murir //
+66 come	5ir //
+72 sun	sol //
+74 star	stEla //
+75 water	akwa //
+77 stone	prEda //
+82 fire	fog //
+85 path	strada //
+86 mountain	munta5a //
+92 night	not //
+95 full	pin //
+96 new	nov //
+100 name	nom //",IE,ROMANCE,4078,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo",IE.ROMANCE,emil1241,egl,itb,,Indo-European,Indo-European,EMILIANO_REGGIANO,{},44.35,False,11.58,,Emiliano Reggiano,3000000,4079,False,"EMILIANO_REGGIANO{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo}
+ 1   44.35   11.58     3000000   itb   egl
+1 I	me //
+2 you	te //
+3 we	nuEter //
+11 one	un, von //
+12 two	dow //
+18 person	om //
+19 fish	pEs //
+21 dog	kan //
+22 louse	pyoC //
+23 tree	Elber //
+25 leaf	foya //
+28 skin	pEla //
+30 blood	saNgov, saNgev //
+31 bone	os //
+34 horn	koren //
+39 ear	urECa //
+40 eye	oC //
+41 nose	nEs //
+43 tooth	dEynt //
+44 tongue	lENgwa //
+47 knee	ZnoC //
+48 hand	man //
+51 breast	stom3g //
+53 liver	fedeg //
+54 drink	bEvEr //
+57 see	vEder //
+58 hear	sEynter //
+61 die	murir //
+66 come	5ir //
+72 sun	sowl //
+74 star	strEla //
+75 water	akva, akwa //
+77 stone	preda //
+82 fire	fog //
+85 path	strEda //
+86 mountain	munta5a //
+92 night	not //
+95 full	pin //
+96 new	nov //
+100 name	nom //",IE,ROMANCE,4079,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Portuguese-Galician","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance",IE.ROMANCE,fala1241,fax,,,Indo-European,Indo-European,FALA,{},40.17,False,-6.91,,Fala,11000,4080,False,"FALA{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Portuguese-Galician@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance}
+ 1   40.17   -6.91       11000         fax
+1 I	ei //
+2 you	tu //
+3 we	nohotru, noS //
+18 person	pessona //
+22 louse	pioLu //
+23 tree	arbole //
+25 leaf	oha //
+30 blood	saNre //
+31 bone	uNwesu, oSu //
+39 ear	oreLaS //
+40 eye	oLus //
+43 tooth	8iente //
+44 tongue	leNwa //
+47 knee	foila //
+48 hand	maN //
+53 liver	figado //
+54 drink	bibil //
+58 hear	oil, ol //
+61 die	moril //
+66 come	bil, benil //
+72 sun	Sol //
+74 star	eStrelaS //
+82 fire	fwego //
+85 path	kaminh~u //
+92 night	noiti //
+95 full	Ceu //",IE,ROMANCE,4080,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Oil,French","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,GlobalFrench",IE.ROMANCE,stan1290,fra,fre,,Indo-European,Indo-European,FRENCH,{},48.0,False,2.0,,French,76795640,4081,False,"FRENCH{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Oil,French@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,GlobalFrench}
+ 1   48.00    2.00    76795640   fre   fra
+1 I	j3 //
+2 you	ti, vu //
+3 we	nu //
+4 this	s3si //
+5 that	s3la //
+6 who	ki //
+7 what	kwa //
+8 not	n3 pa //
+9 all	tu //
+10 many	boku //
+11 one	oe* //
+12 two	de //
+13 big	gra* //
+14 long	lo* //
+15 small	p3ti //
+16 woman	fam //
+17 man	om //
+18 person	om //
+19 fish	pw~aso* //
+20 bird	wazo //
+21 dog	Sia* //
+22 louse	pu //
+23 tree	arbr3 //
+24 seed	gran //
+25 leaf	f3y //
+26 root	rasin //
+27 bark	ekors //
+28 skin	po //
+29 flesh	vy~a*d //
+30 blood	sa* //
+31 bone	os //
+32 grease	grais //
+33 egg	3f //
+34 horn	korn //
+35 tail	ke //
+36 feather	ply~m //
+37 hair	S3ve //
+38 head	t3t //
+39 ear	ore //
+40 eye	3y //
+41 nose	ne //
+42 mouth	buS //
+43 tooth	da* //
+44 tongue	la*g //
+45 claw	o*gl //
+46 foot	py~e //
+47 knee	j3nu //
+48 hand	ma* //
+49 belly	va*tr //
+50 neck	ku //
+51 breast	pw~atrin //
+52 heart	k3r //
+53 liver	fw~a //
+54 drink	bw~a //
+55 eat	ma*g //
+56 bite	mord //
+57 see	vw~a //
+58 hear	o*ta*dr //
+59 know	savw~a //
+60 sleep	dormi //
+61 die	muri //
+62 kill	tue //
+63 swim	naje //
+64 fly	vw~ale //
+65 walk	marSe //
+66 come	v3ni //
+67 lie	seta*dr, etra*da*dE //
+68 sit	sasw~a, etrasi //
+69 stand	s3l3ve, s3t3nird3vu //
+70 give	done //
+71 say	di //
+72 sun	sole //
+73 moon	len //
+74 star	etw~ol //
+75 water	o //
+76 rain	plui //
+77 stone	py~er //
+78 sand	sabl //
+79 earth	ter //
+80 cloud	nuaj //
+81 smoke	fEme //
+82 fire	fe //
+83 ash	sa*dr //
+84 burn	brule //
+85 path	rut //
+86 mountain	mo*taj //
+87 red	ruj //
+88 green	ver //
+89 yellow	jon //
+90 white	bla* //
+91 black	nw~ar //
+92 night	nui //
+93 hot	So //
+94 cold	fr~wa //
+95 full	pl3* //
+96 new	nuvo //
+97 good	bo* //
+98 round	ro* //
+99 dry	s3k //
+100 name	no* //",IE,ROMANCE,4081,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Oil,French","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,GlobalFrench",IE.ROMANCE,stan1290,fra,fre,,Indo-European,Indo-European,FRENCH_2,{},48.0,False,2.0,,French 2,76795640,4082,False,"FRENCH_2{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Oil,French@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,GlobalFrench}
+ 1   48.00    2.00    76795640   fre   fra
+1 I	Z3, mwa //
+2 you	ti, twa //
+3 we	nu //
+4 this	s3si //
+5 that	s3, s3la //
+6 who	ki //
+7 what	k3, kwa //
+8 not	n3 po //
+9 all	tu //
+11 one	E //
+12 two	de //
+13 big	gXo //
+14 long	lo //
+15 small	p3ti //
+16 woman	fam //
+17 man	om //
+18 person	om //
+19 fish	pwaso //
+20 bird	wazo //
+21 dog	SyE //
+22 louse	pu //
+23 tree	aXbX3 //
+24 seed	s3mos //
+25 leaf	fEy //
+26 root	Xasin //
+27 bark	ekoXs //
+28 skin	po //
+29 flesh	vyod //
+30 blood	so //
+31 bone	os //
+32 grease	gXEs //
+33 egg	Ef //
+34 horn	koXn //
+35 tail	ke //
+36 feather	plim //
+37 hair	Sve //
+38 head	tEt //
+39 ear	oXEy //
+40 eye	Ey //
+41 nose	ne //
+42 mouth	buS //
+43 tooth	do //
+44 tongue	log //
+45 claw	ogl3 //
+46 foot	pye //
+47 knee	Z3nu //
+48 hand	mE //
+49 belly	votX3 //
+50 neck	ku //
+51 breast	sE //
+52 heart	kEX //
+53 liver	fwa //
+54 drink	bwaX //
+55 eat	moZe //
+56 bite	moXdX3 //
+57 see	vwaX //
+58 hear	otodX3 //
+59 know	savwaX //
+60 sleep	doXmiX //
+61 die	muXiX //
+62 kill	tie //
+63 swim	naZe //
+64 fly	vole //
+65 walk	maXSe, ale apye //
+66 come	v3niX //
+67 lie	EtX3 kuSe //
+68 sit	EtX3 asi //
+69 stand	EtX3 d3bu //
+70 give	done //
+71 say	diX //
+72 sun	solEy //
+73 moon	lin //
+74 star	etwal //
+75 water	o //
+76 rain	plyi //
+77 stone	pyEX //
+78 sand	sobl3 //
+79 earth	tEX //
+80 cloud	nyaZ //
+81 smoke	fime //
+82 fire	fe //
+83 ash	sodX3 //
+84 burn	bXile, flobe //
+85 path	sotye //
+86 mountain	mo, mota5 //
+87 red	XuZ //
+88 green	vEX //
+89 yellow	Zon //
+90 white	blo //
+91 black	nwaX //
+92 night	nyi //
+93 hot	So //
+94 cold	fXwa //
+95 full	plE, Xopli //
+96 new	nEf, nuvo //
+97 good	bo //
+98 round	Xo //
+99 dry	sEk //
+100 name	no //",IE,ROMANCE,4082,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian",IE.ROMANCE,friu1240,fur,,,Indo-European,Indo-European,FRIULIAN,{},46.17,False,12.9,,Friulian,300000,4083,False,"FRIULIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.17   12.90      300000         fur
+1 I	yo //
+2 you	tu //
+3 we	nou, noaltris //
+11 one	uN //
+12 two	doi //
+18 person	pErsoN //
+19 fish	pes //
+21 dog	CaN, ky~aN //
+22 louse	pEdoli //
+23 tree	arbul //
+25 leaf	fw~eE //
+28 skin	py~el //
+30 blood	saNk //
+31 bone	vw~es //
+34 horn	kw~ar //
+39 ear	oreli //
+40 eye	voli //
+41 nose	nas //
+43 tooth	dint //
+44 tongue	leNgE //
+47 knee	zEnoli, jEnoli //
+48 hand	man //
+51 breast	pet //
+53 liver	fiat, fy~at //
+54 drink	bevi //
+57 see	viodi, vy~odi //
+58 hear	sintei //
+61 die	murei //
+66 come	vi5ei //
+72 sun	soreli //
+74 star	stelE //
+75 water	agE //
+77 stone	py~erE //
+82 fire	fouk, fuk //
+85 path	stradE //
+86 mountain	mont, monta5E //
+92 night	5ot //
+95 full	plen //
+96 new	5ouf, 5uf //
+100 name	non //",IE,ROMANCE,4083,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Portuguese-Galician","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance",IE.ROMANCE,gali1258,glg,glc,,Indo-European,Indo-European,GALICIAN,{},43.0,False,-8.0,,Galician,2372000,4084,False,"GALICIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Portuguese-Galician@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance}
+ 1   43.00   -8.00     2372000   glc   glg
+2 you	ti //
+3 we	nos //
+11 one	un //
+12 two	dous //
+18 person	ome //
+19 fish	pEiSe //
+21 dog	kan //
+22 louse	pioLo //
+23 tree	arbore //
+25 leaf	foLa //
+28 skin	pEl //
+30 blood	saNge //
+31 bone	oso //
+34 horn	korno //
+39 ear	orELa //
+40 eye	oLo //
+41 nose	nari8 //
+43 tooth	dEnte //
+44 tongue	liNgw~a //
+47 knee	SeonLo //
+48 hand	man //
+51 breast	pEito //
+53 liver	figado //
+54 drink	beber //
+57 see	ber //
+58 hear	oir //
+61 die	morer //
+66 come	bir //
+72 sun	sol //
+74 star	Estrela //
+75 water	auga //
+77 stone	pEdra //
+82 fire	lume //
+85 path	Estrada //
+86 mountain	monta5a //
+92 night	noite //
+95 full	Ceo //
+96 new	nobo //
+100 name	nome //",IE,ROMANCE,4084,
+"Indo-European,Italic,Romance,Southern,Sardinian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Corsic",IE.ROMANCE,gall1276,sdn,,,Indo-European,Indo-European,GALLURESE_SARDINIAN,{},41.11,False,9.24,,Gallurese Sardinian,100000,4085,False,"GALLURESE_SARDINIAN{IE.ROMANCE|Indo-European,Italic,Romance,Southern,Sardinian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Corsic}
+ 1   41.11    9.24      100000         sdn
+1 I	eo //
+2 you	tu //
+3 we	noi //
+11 one	unu, una //
+18 person	omu //
+19 fish	peskiu //
+40 eye	oCy //
+43 tooth	denti //
+44 tongue	liNga //
+47 knee	gyinoCy //
+48 hand	manu //
+72 sun	soli //
+75 water	ea //
+77 stone	petra //
+86 mountain	munta5a //
+92 night	notti //
+95 full	pie5o //
+96 new	nou //",IE,ROMANCE,4085,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,Oc","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,Occitanic",IE.ROMANCE,occi1239,oci,occ,,Indo-European,Indo-European,GASCON,{},43.3,False,0.1,,Gascon,218310,4086,False,"GASCON{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,Oc@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,Occitanic}
+ 1   43.30    0.10      218310   occ   oci
+1 I	jo, yo //
+2 you	ti //
+3 we	nuzant~es //
+11 one	i //
+12 two	dis, dios //
+18 person	omi //
+19 fish	pES //
+21 dog	ka //
+22 louse	pedui //
+23 tree	arbe //
+25 leaf	wueyo, hueyo //
+28 skin	pEt //
+30 blood	saN //
+31 bone	os //
+34 horn	korno //
+39 ear	aureyo //
+40 eye	wey //
+41 nose	nas //
+43 tooth	dent~ //
+44 tongue	leNg~o //
+47 knee	Zuy, juL //
+48 hand	ma //
+51 breast	pupo //
+53 liver	hiCe //
+54 drink	beore //
+57 see	beze //
+58 hear	auzi //
+61 die	kreba //
+66 come	biene //
+72 sun	sureL //
+74 star	estero //
+75 water	aigo //
+77 stone	pEiro //
+82 fire	huek, wiek //
+85 path	kami //
+86 mountain	munta5o //
+92 night	nwoyt //
+95 full	ple //
+96 new	nau //
+100 name	num //",IE,ROMANCE,4086,
+"Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,DalmatianRomance",IE.ROMANCE,istr1244,ist,,,Indo-European,Indo-European,ISTRIOT,{},45.09,False,13.64,,Istriot,1300,4087,False,"ISTRIOT{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,DalmatianRomance}
+ 1   45.09   13.64        1300         ist
+1 I	mei //
+2 you	tei //
+3 we	nui //
+11 one	oun //
+12 two	dui //
+18 person	parsona, on //
+30 blood	saNgo //
+43 tooth	dento //
+44 tongue	leNgua //
+66 come	venei //
+72 sun	sul //
+100 name	non //",IE,ROMANCE,4087,
+"Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance",IE.ROMANCE,ital1282,ita,ifi,,Indo-European,Indo-European,ITALIAN,{},43.0,False,12.0,,Italian,64819790,4088,False,"ITALIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance}
+ 1   43.00   12.00    64819790   ifi   ita
+1 I	io //
+2 you	tu //
+3 we	noi //
+11 one	uno //
+12 two	due //
+18 person	persona //
+19 fish	peSe //
+21 dog	kane //
+22 louse	pidokkyo //
+23 tree	albero //
+25 leaf	foLa //
+28 skin	pElle //
+30 blood	saNgwe //
+31 bone	osso //
+34 horn	korno //
+39 ear	orekkyo //
+40 eye	okkyo //
+41 nose	naso //
+43 tooth	dante //
+44 tongue	liNgwa //
+47 knee	jinokkyo //
+48 hand	mano //
+51 breast	pEtto //
+53 liver	fegato //
+54 drink	bere //
+57 see	ved //
+58 hear	ud //
+61 die	mor //
+66 come	vEn //
+72 sun	sole //
+74 star	stella //
+75 water	akwa //
+77 stone	pyEtra //
+82 fire	fwoko //
+85 path	sentyEro //
+86 mountain	monta5a //
+92 night	notte //
+95 full	pyEno //
+96 new	nwovo //
+100 name	nome //",IE,ROMANCE,4088,
+"Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance",IE.ROMANCE,ital1282,ita,ifi,,Indo-European,Indo-European,ITALIAN_2,{},43.0,False,12.0,,Italian 2,64819790,4089,False,"ITALIAN_2{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance}
+ 1   43.00   12.00    64819790   ifi   ita
+1 I	io //
+2 you	tu //
+3 we	noi //
+4 this	Co, kwesto //
+5 that	Co, kwello //
+6 who	ki //
+7 what	ke, ke koza //
+8 not	non //
+9 all	tutto //
+11 one	uno //
+12 two	due //
+13 big	grande //
+14 long	luNgo //
+15 small	pikkolo //
+16 woman	donna //
+17 man	uomo //
+18 person	uomo, Essere umano //
+19 fish	peSSe //
+20 bird	utCello //
+21 dog	kane //
+22 louse	pidokkyo //
+23 tree	albero //
+24 seed	semente //
+25 leaf	foLLa //
+26 root	radiCe //
+27 bark	kortetCa //
+28 skin	pelle //
+29 flesh	karne //
+30 blood	saNgue //
+31 bone	osso //
+32 grease	grasso //
+33 egg	uovo //
+34 horn	korno //
+35 tail	koda //
+36 feather	penna //
+37 hair	kapello //
+38 head	kapo, testa //
+39 ear	orekkyo //
+40 eye	okkyo //
+41 nose	nazo //
+42 mouth	bokka //
+43 tooth	dente //
+44 tongue	liNgua //
+45 claw	uNgya //
+46 foot	piede //
+47 knee	jinokkyo //
+48 hand	mano //
+49 belly	ventre //
+50 neck	kollo //
+51 breast	seno //
+52 heart	kuore //
+53 liver	fegato //
+54 drink	bere //
+55 eat	manjare //
+56 bite	mordere //
+57 see	vedere //
+58 hear	udire, sentire //
+59 know	sapere //
+60 sleep	dormire //
+61 die	morire //
+62 kill	utCidere //
+63 swim	nuotare //
+64 fly	volare //
+65 walk	kamminare, andare a piedi //
+66 come	venire //
+67 lie	jaCere //
+68 sit	sedere, stare seduto //
+69 stand	stare in piedi //
+70 give	dare //
+71 say	dire //
+72 sun	sole //
+73 moon	luna //
+74 star	stella //
+75 water	akkwa //
+76 rain	piodja //
+77 stone	sasso, pietra //
+78 sand	arena, sabbia //
+79 earth	terra //
+80 cloud	nube, nuvola //
+81 smoke	fumo //
+82 fire	fuoko //
+83 ash	Cenere //
+84 burn	ardere, bruCare //
+85 path	sentiero //
+86 mountain	monte, monta55a //
+87 red	rosso //
+88 green	verde //
+89 yellow	jallo //
+90 white	biaNko //
+91 black	nero //
+92 night	notte //
+93 hot	kaldo //
+94 cold	freddo //
+95 full	pieno //
+96 new	nuovo //
+97 good	buono //
+98 round	rotondo //
+99 dry	sekko //
+100 name	nome //",IE,ROMANCE,4089,
+"Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance",IE.ROMANCE,ital1282,ita,ifi,,Indo-European,Indo-European,ITALIAN_GROSSETO_TUSCAN,{},43.0,False,12.0,,Italian Grosseto Tuscan,64819790,4090,False,"ITALIAN_GROSSETO_TUSCAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance}
+ 1   43.00   12.00    64819790   ifi   ita
+1 I	io //
+2 you	te //
+3 we	noi //
+11 one	uno //
+12 two	due //
+18 person	omo //
+19 fish	peSe //
+21 dog	kane //
+22 louse	pidokyo //
+23 tree	pyanta //
+25 leaf	foLa //
+28 skin	pEle //
+30 blood	sangwe //
+31 bone	oso //
+34 horn	korno //
+39 ear	orekyo //
+40 eye	okyo //
+41 nose	naso //
+43 tooth	dEnte //
+44 tongue	lingwa //
+47 knee	Zinkyo //
+48 hand	mano //
+51 breast	pEto //
+53 liver	fegato //
+54 drink	bE //
+57 see	vedere //
+58 hear	sentire //
+61 die	morire //
+66 come	venire //
+72 sun	sole //
+74 star	stela //
+75 water	akwa //
+77 stone	saso //
+82 fire	foko //
+85 path	strada //
+86 mountain	monata5a, monte //
+92 night	note //
+95 full	pyEno //
+96 new	novo //
+100 name	nome //",IE,ROMANCE,4090,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Castilian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic,SouthCastilic",IE.ROMANCE,ladi1251,lad,lno,,Indo-European,Indo-European,JUDEO_ESPAGNOL,{},40.0,False,33.0,,Judeo Espagnol,137000,4091,False,"JUDEO_ESPAGNOL{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Castilian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic,SouthCastilic}
+ 1   40.00   33.00      137000   lno   lad
+1 I	yo //
+2 you	vos, vozotros //
+3 we	mozotros, nozotros //
+11 one	uno, una //
+12 two	dos //
+18 person	persona, %benadam //
+19 fish	peSkado, piSkado //
+21 dog	perro //
+22 louse	pioxo //
+23 tree	arvole //
+25 leaf	oxa //
+28 skin	kuero //
+30 blood	saNgre //
+31 bone	gueso //
+34 horn	kuerno //
+39 ear	orexa //
+40 eye	oxo //
+41 nose	nariz //
+43 tooth	dyente //
+44 tongue	lingua, %laSon, alueNga //
+47 knee	rodiyas, Cinoyos //
+48 hand	mano //
+51 breast	peCo, peCadura //
+53 liver	igado //
+54 drink	bever //
+57 see	ver //
+58 hear	oir, oyir, sentir //
+61 die	murir, %ser niftar //
+66 come	venir //
+72 sun	sol //
+74 star	estreya //
+75 water	agua //
+77 stone	pyedra //
+82 fire	fuego, huego, lumbre //
+85 path	kamino, karrera //
+86 mountain	monta5a //
+92 night	noCe //
+95 full	yeno, yena //
+96 new	muevo, mueva //
+100 name	nombre //",IE,ROMANCE,4091,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,Oc","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,Occitanic",IE.ROMANCE,occi1239,oci,occ,,Indo-European,Indo-European,LANGUEDOCIEN,{},45.7,False,3.33,,Languedocien,218310,4092,False,"LANGUEDOCIEN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,Oc@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,Occitanic}
+ 1   45.70    3.33      218310   occ   oci
+2 you	ti //
+3 we	nuzautres //
+11 one	i //
+12 two	dus //
+18 person	persuno //
+19 fish	peys //
+21 dog	ka, gus //
+22 louse	pezul //
+23 tree	arbre //
+25 leaf	fiElo //
+28 skin	pel //
+30 blood	saN //
+31 bone	os //
+34 horn	korno //
+39 ear	awreLo //
+40 eye	ieL //
+41 nose	nas //
+43 tooth	den //
+44 tongue	leNg~o //
+47 knee	jenul //
+48 hand	ma //
+51 breast	pupo //
+53 liver	feje //
+54 drink	bewre //
+57 see	beyre //
+58 hear	awzi //
+61 die	kreba //
+66 come	bEni //
+72 sun	sulel //
+74 star	estelo //
+75 water	aygo //
+77 stone	pEyro //
+82 fire	fiok //
+85 path	kami //
+86 mountain	munta5o //
+92 night	5oC //
+95 full	ple //
+96 new	naw //
+100 name	nun //",IE,ROMANCE,4092,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian",IE.ROMANCE,ligu1248,lij,itg,,Indo-European,Indo-European,LIGURIAN_GENOESE,{},44.42,False,8.95,,Ligurian Genoese,508210,4095,False,"LIGURIAN_GENOESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   44.42    8.95      508210   itg   lij
+1 I	mi //
+2 you	ti //
+3 we	nuiatri //
+11 one	uN //
+12 two	dui //
+18 person	omu //
+19 fish	peSu //
+21 dog	kaN //
+22 louse	pigEju //
+23 tree	erbu //
+25 leaf	foya //
+28 skin	pele //
+30 blood	saNgwe //
+31 bone	Esu //
+34 horn	kornu //
+39 ear	wEja //
+40 eye	Eju //
+41 nose	nazu //
+43 tooth	dente //
+44 tongue	liNgwa //
+47 knee	Zenuju //
+48 hand	maN //
+51 breast	petu //
+53 liver	fegatu //
+54 drink	bEyve //
+57 see	vede //
+58 hear	seNti //
+61 die	mui //
+66 come	ve5i //
+72 sun	su //
+74 star	stela //
+75 water	egwa //
+77 stone	pria //
+82 fire	fEgu //
+85 path	strada //
+86 mountain	briku //
+92 night	nEte //
+95 full	piN //
+96 new	nEvu //
+100 name	nume //",IE,ROMANCE,4095,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian",IE.ROMANCE,ligu1248,lij,itg,,Indo-European,Indo-European,LIGURIAN_RAPALLO,{},44.42,False,8.95,,Ligurian Rapallo,508210,4096,False,"LIGURIAN_RAPALLO{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   44.42    8.95      508210   itg   lij
+1 I	mi //
+2 you	ti //
+3 we	nui //
+11 one	uN //
+12 two	dui //
+18 person	omu //
+19 fish	pESu //
+21 dog	kaN //
+22 louse	pigEju //
+23 tree	Erbu //
+25 leaf	foya //
+28 skin	pele //
+30 blood	saNgwe //
+31 bone	osu //
+34 horn	kornu //
+39 ear	aweje //
+40 eye	Eju //
+41 nose	nazu //
+43 tooth	dEnte //
+44 tongue	liNgwa //
+47 knee	zenuju //
+48 hand	maN //
+51 breast	kaSeta //
+53 liver	figEtu //
+54 drink	bEye //
+57 see	vede //
+58 hear	seNti //
+61 die	mui //
+66 come	ve5i //
+72 sun	su //
+74 star	stela //
+75 water	Egwa //
+77 stone	pria //
+82 fire	fEgu //
+85 path	strada //
+86 mountain	munta5a //
+92 night	nEte //
+95 full	piN //
+96 new	nEvu //
+100 name	nume //",IE,ROMANCE,4096,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian",IE.ROMANCE,ligu1248,lij,itg,,Indo-European,Indo-European,LIGURIAN_STELLA,{},44.42,False,8.95,,Ligurian Stella,508210,4097,False,"LIGURIAN_STELLA{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   44.42    8.95      508210   itg   lij
+1 I	mi //
+2 you	ti //
+3 we	nuiatri //
+11 one	uN //
+12 two	dui //
+18 person	kristyaN //
+19 fish	pESu //
+21 dog	kaN //
+22 louse	pyEju //
+23 tree	Erbu //
+25 leaf	fEya //
+28 skin	pEle //
+30 blood	saNgwe //
+31 bone	osu //
+34 horn	kornu //
+39 ear	weja //
+40 eye	Eju //
+41 nose	nazu //
+43 tooth	dENCu //
+44 tongue	lENgwa //
+47 knee	Zenuju //
+48 hand	maN //
+51 breast	pEtu //
+53 liver	fegatu //
+54 drink	bEyve //
+57 see	vyEy //
+58 hear	seNti //
+61 die	mii //
+66 come	ve5i //
+72 sun	su //
+74 star	StEya //
+75 water	Egwa //
+77 stone	prEya //
+82 fire	fE //
+85 path	Stro //
+86 mountain	briku //
+92 night	nECe //
+95 full	CEN //
+96 new	nEvu //
+100 name	nume //",IE,ROMANCE,4097,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian",IE.ROMANCE,lomb1257,lmo,,,Indo-European,Indo-European,LOMBARD_BERGAMO,{},45.88,False,9.4,,Lombard Bergamo,3903000,4098,False,"LOMBARD_BERGAMO{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.88    9.40     3903000         lmo
+1 I	me //
+2 you	te //
+3 we	noter //
+11 one	u //
+12 two	du //
+18 person	om //
+19 fish	pEs //
+21 dog	ka //
+22 louse	pyoC //
+23 tree	pyanta //
+25 leaf	foya //
+28 skin	pEl //
+30 blood	sank //
+31 bone	os //
+34 horn	koren //
+39 ear	orEja //
+40 eye	oC //
+41 nose	nas //
+43 tooth	det //
+44 tongue	lEngwa //
+47 knee	jonoC //
+48 hand	ma //
+51 breast	stomEk //
+53 liver	fidek //
+54 drink	bif //
+57 see	Et //
+58 hear	sinti, senti //
+61 die	mor //
+66 come	E5 //
+72 sun	sul //
+74 star	stEla //
+75 water	akwa //
+77 stone	preda //
+82 fire	fok //
+85 path	strada //
+86 mountain	monta5a //
+92 night	noC //
+95 full	pye //
+96 new	nof //
+100 name	nom //",IE,ROMANCE,4098,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian",IE.ROMANCE,lomb1257,lmo,,,Indo-European,Indo-European,LOMBARD_PLESIO,{},45.88,False,9.4,,Lombard Plesio,3903000,4099,False,"LOMBARD_PLESIO{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.88    9.40     3903000         lmo
+1 I	mi //
+2 you	ti //
+3 we	nuN //
+11 one	vuN //
+12 two	duu //
+18 person	om //
+19 fish	pEs //
+21 dog	kaN //
+22 louse	pyoC //
+23 tree	pyanta //
+25 leaf	foya //
+28 skin	pEl //
+30 blood	sank //
+31 bone	os //
+34 horn	kornu //
+39 ear	urEja //
+40 eye	oC //
+41 nose	nas //
+43 tooth	denC //
+44 tongue	lengwa //
+47 knee	jinoC //
+48 hand	maN //
+51 breast	StumEk //
+53 liver	fidEk //
+54 drink	bef //
+57 see	vedE //
+58 hear	senti //
+61 die	muri //
+66 come	ve5i //
+72 sun	suu //
+74 star	StEla //
+75 water	akwa //
+77 stone	sas //
+82 fire	fok //
+85 path	Strada //
+86 mountain	munta5a //
+92 night	noC //
+95 full	pyee //
+96 new	nof //
+100 name	nom //",IE,ROMANCE,4099,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Asturo-Leonese","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Asturo-Leonese",IE.ROMANCE,mira1251,mwl,,,Indo-European,Indo-European,MIRANDESE,{},41.54,False,-6.38,,Mirandese,15000,4100,False,"MIRANDESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Asturo-Leonese@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Asturo-Leonese}
+ 1   41.54   -6.38       15000         mwl
+1 I	yu //
+2 you	tu //
+3 we	mos //
+11 one	uNa, u* //
+12 two	dues, dous //
+18 person	umano //
+19 fish	peixe //
+21 dog	perro //
+23 tree	arbores, teixo //
+25 leaf	foLa, fueLa //
+30 blood	sangre //
+31 bone	osso //
+39 ear	oureiLa //
+40 eye	oLo //
+41 nose	nariC //
+43 tooth	die*nte //
+44 tongue	Lengua //
+47 knee	geolho //
+48 hand	mano //
+51 breast	peito //
+54 drink	buber //
+57 see	ber //
+58 hear	ubir //
+61 die	morrer //
+66 come	benir //
+72 sun	sole //
+74 star	streiLa //
+75 water	auga //
+77 stone	piedra //
+82 fire	fogo //
+85 path	camino //
+86 mountain	munta5a //
+92 night	nuite //
+95 full	txeno //
+96 new	nobo //",IE,ROMANCE,4100,
+"Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance",IE.ROMANCE,neap1235,nap,itn,,Indo-European,Indo-European,NEAPOLITAN_CALABRESE,{},39.23,False,16.42,,Neapolitan Calabrese,5700000,4101,False,"NEAPOLITAN_CALABRESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance}
+ 1   39.23   16.42     5700000   itn   nap
+1 I	iy3, i //
+2 you	tu //
+3 we	nuy3 //
+11 one	un3 //
+12 two	doye, duy3 //
+18 person	kr3styan3 //
+19 fish	peS3 //
+21 dog	kan3 //
+22 louse	p3ruky3 //
+23 tree	ab3r3, arb3r3 //
+25 leaf	foy3 //
+28 skin	pEl3 //
+30 blood	sang3 //
+31 bone	wos3 //
+34 horn	korn3 //
+39 ear	reky3 //
+40 eye	woky3 //
+41 nose	nas3 //
+43 tooth	dEnte //
+44 tongue	lengw3, leng3 //
+47 knee	d3nuky3 //
+48 hand	man3 //
+51 breast	pyetE //
+53 liver	fExat3, fexat3, fekat3 //
+54 drink	vEb3r3, veb3r3 //
+57 see	v3rE, v3re //
+58 hear	s3nti //
+61 die	muri //
+66 come	v3ni //
+72 sun	sol3 //
+74 star	stel3 //
+75 water	akw3 //
+77 stone	prEt3 //
+82 fire	fok3, fwok3 //
+85 path	strat3 //
+86 mountain	munta53 //
+92 night	not3 //
+95 full	kin3 //
+96 new	nwov3 //
+100 name	nom3 //",IE,ROMANCE,4101,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian",IE.ROMANCE,ladi1250,lld,ldn,,Indo-European,Indo-European,NONES,{},46.37,False,11.03,,Nones,31000,4102,False,"NONES{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.37   11.03       31000   ldn   lld
+1 I	mi //
+2 you	ti //
+3 we	noi autri, noi autre //
+11 one	un //
+12 two	doi //
+18 person	om //
+19 fish	pes //
+21 dog	cain, Cain //
+22 louse	piocEl, pioCEl //
+23 tree	arbol //
+25 leaf	foya //
+28 skin	pEl //
+30 blood	saNk~ //
+31 bone	os //
+34 horn	korn //
+39 ear	rekla //
+40 eye	ocEl, oCEl //
+41 nose	nas //
+43 tooth	dEnt~ //
+44 tongue	lENg~a //
+47 knee	zinocEl, zinoCEl //
+48 hand	man //
+51 breast	livEr //
+53 liver	fica, fija //
+54 drink	triNk~ar, bevEr //
+57 see	vedEr //
+58 hear	sent~ir //
+61 die	morir //
+66 come	vEnEr //
+72 sun	sol //
+75 water	aka //
+77 stone	sas //
+82 fire	fec, feC //
+85 path	strada, sent~er //
+86 mountain	mont~ //
+92 night	not //
+95 full	plen //
+96 new	neo, nea //
+100 name	nom //",IE,ROMANCE,4102,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian",IE.ROMANCE,ladi1250,lld,ldn,,Indo-European,Indo-European,NONES_FASSANO,{},46.61,False,11.89,,Nones Fassano,31000,4103,False,"NONES_FASSANO{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.61   11.89       31000   ldn   lld
+1 I	Ze //
+11 one	uN //
+18 person	om //
+19 fish	peS //
+21 dog	Ta5 //
+22 louse	poye //
+25 leaf	foa //
+28 skin	pel //
+30 blood	saNk //
+31 bone	os //
+34 horn	korn //
+39 ear	ureya //
+40 eye	eye //
+41 nose	nEs //
+47 knee	Z3neye //
+48 hand	ma5 //
+51 breast	pyet //
+53 liver	neygEr //
+54 drink	beyver //
+57 see	veder //
+58 hear	sentir //
+61 die	mori //
+66 come	ve5ir //
+72 sun	soreye //
+74 star	Steyla //
+77 stone	sas //
+82 fire	fek //
+85 path	StrEda //
+86 mountain	krepa //
+92 night	net //
+95 full	pye5 //
+96 new	nef //
+100 name	inom //",IE,ROMANCE,4103,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian",IE.ROMANCE,ladi1250,lld,ldn,,Indo-European,Indo-European,NONES_GARDENESE,{},46.61,False,11.89,,Nones Gardenese,31000,4104,False,"NONES_GARDENESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.61   11.89       31000   ldn   lld
+1 I	ye //
+2 you	tu //
+3 we	n3ws //
+11 one	uN //
+12 two	doy //
+18 person	womo //
+19 fish	p3S //
+21 dog	Ta5 //
+22 louse	podl //
+23 tree	l3N //
+25 leaf	pleCa //
+28 skin	pel //
+30 blood	saNk //
+31 bone	os //
+34 horn	korn //
+39 ear	ur3dla //
+40 eye	wedl //
+41 nose	nEs //
+43 tooth	d3nt //
+44 tongue	l3Nga //
+47 knee	Z3nodl //
+48 hand	ma5 //
+51 breast	pyet //
+53 liver	foSk //
+54 drink	bev3r //
+57 see	ud3y //
+58 hear	awdi //
+61 die	muri //
+66 come	uni //
+72 sun	sur3dl //
+74 star	St3yla //
+75 water	Ega //
+77 stone	sas //
+82 fire	fwek //
+85 path	StrEda //
+86 mountain	kr3p //
+92 night	nwet //
+95 full	pl35 //
+96 new	nwef //
+100 name	inwem //",IE,ROMANCE,4104,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,Oc","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,Occitanic",IE.ROMANCE,occi1239,oci,occ,,Indo-European,Indo-European,OCCITAN_ARANESE,{},42.72,False,0.84,,Occitan Aranese,218310,4105,False,"OCCITAN_ARANESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,Oc@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,Occitanic}
+ 1   42.72    0.84      218310   occ   oci
+1 I	Zu, ieu //
+2 you	ti, tu //
+3 we	nuzati //
+11 one	iN, uN //
+12 two	dis, dues //
+18 person	persuno //
+19 fish	peiS //
+21 dog	kaN //
+23 tree	arbe //
+25 leaf	ueLo //
+28 skin	pEt, pEC //
+30 blood	saN //
+31 bone	os, uas //
+34 horn	korno //
+39 ear	aureLo //
+40 eye	ueL //
+41 nose	nas //
+43 tooth	den //
+44 tongue	leNg~uo, leNg~o //
+47 knee	ZuL, juL //
+48 hand	maN //
+54 drink	bEbe //
+57 see	be8e //
+58 hear	ent~ene //
+61 die	muri //
+66 come	bie //
+72 sun	su, sulei //
+74 star	estelo //
+75 water	aixuo, aixo //
+77 stone	pEiro //
+82 fire	uek //
+85 path	kursEro, kamiN //
+86 mountain	munt~a5o //
+92 night	ne, nuei //
+95 full	pleN //
+96 new	nau //
+100 name	nom //",IE,ROMANCE,4105,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian",IE.ROMANCE,piem1238,pms,itu,,Indo-European,Indo-European,PIEMONTESE_1,{},45.0,False,7.67,,Piemontese 1,700000,4106,False,"PIEMONTESE_1{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.00    7.67      700000   itu   pms
+1 I	mi //
+2 you	ti //
+3 we	nui, nuyautri //
+11 one	un //
+12 two	doe //
+18 person	om //
+19 fish	pes //
+21 dog	kan //
+22 louse	piEC //
+23 tree	arbra //
+25 leaf	fEya //
+28 skin	pel //
+30 blood	saNh~ //
+31 bone	os //
+34 horn	corn //
+39 ear	oriya //
+40 eye	EC //
+41 nose	nas //
+43 tooth	dent //
+44 tongue	leNga //
+47 knee	ginoy //
+48 hand	man //
+51 breast	pet //
+53 liver	fidigh~ //
+54 drink	bEive //
+57 see	vedde //
+58 hear	senti //
+61 die	mEire //
+66 come	vni //
+72 sun	sol //
+74 star	stEila //
+75 water	eva //
+77 stone	pera //
+82 fire	fE //
+85 path	stra //
+86 mountain	monta5a //
+92 night	nEit //
+95 full	pyen //
+96 new	nEv //
+100 name	nom //",IE,ROMANCE,4106,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian",IE.ROMANCE,piem1238,pms,itu,,Indo-European,Indo-European,PIEMONTESE_2,{},45.0,False,7.67,,Piemontese 2,700000,4107,False,"PIEMONTESE_2{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.00    7.67      700000   itu   pms
+1 I	mi //
+2 you	ti //
+3 we	nui, nuyautri //
+11 one	un //
+12 two	dui //
+18 person	omo //
+21 dog	k3N //
+23 tree	arbu //
+25 leaf	fEila //
+39 ear	uriya //
+40 eye	Ey //
+47 knee	ginuy //
+74 star	stEila //
+75 water	eba //
+86 mountain	muntin3 //
+92 night	nEC //
+96 new	nEu //",IE,ROMANCE,4107,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian",IE.ROMANCE,piem1238,pms,itu,,Indo-European,Indo-European,PIEMONTESE_BARBANIA,{},45.3,False,7.64,,Piemontese Barbania,700000,4108,False,"PIEMONTESE_BARBANIA{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.30    7.64      700000   itu   pms
+1 I	mi //
+2 you	ti //
+3 we	nuy, nuyawtri //
+11 one	uN //
+12 two	duy //
+18 person	om //
+19 fish	p3s //
+21 dog	kaN //
+22 louse	puy //
+23 tree	Erbu //
+25 leaf	foya //
+28 skin	pEl //
+30 blood	saNg //
+31 bone	os //
+34 horn	korn //
+39 ear	uriya //
+40 eye	oy //
+41 nose	nas //
+43 tooth	deNt //
+44 tongue	lENga //
+47 knee	Zinuy //
+48 hand	maN //
+51 breast	pEt //
+53 liver	fidik //
+54 drink	bEyve //
+57 see	v3de //
+58 hear	sENte //
+61 die	moyre //
+66 come	vni //
+72 sun	sul //
+74 star	stEyla //
+75 water	Eva //
+77 stone	pEra //
+82 fire	fo //
+85 path	stra //
+86 mountain	muNta5a, mu5t //
+92 night	noyt //
+95 full	pyEN //
+96 new	nov //
+100 name	nom //",IE,ROMANCE,4108,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian",IE.ROMANCE,piem1238,pms,itu,,Indo-European,Indo-European,PIEMONTESE_CARMAGNOLA,{},45.3,False,7.64,,Piemontese Carmagnola,700000,4109,False,"PIEMONTESE_CARMAGNOLA{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.30    7.64      700000   itu   pms
+1 I	mi //
+2 you	ti //
+3 we	nuy //
+11 one	uN //
+12 two	duy //
+18 person	om //
+19 fish	pEs //
+21 dog	kaN //
+22 louse	puy //
+23 tree	Erbu //
+25 leaf	foya //
+28 skin	pEl //
+30 blood	saNg //
+31 bone	os //
+34 horn	korn //
+39 ear	uriya //
+40 eye	oy //
+41 nose	nas //
+43 tooth	deNt //
+44 tongue	leNga //
+47 knee	Zinuy //
+48 hand	maN //
+51 breast	stomi //
+53 liver	fidik //
+54 drink	bEyve //
+57 see	v3de //
+58 hear	sENte //
+61 die	moyre //
+66 come	vni //
+72 sun	sul //
+74 star	stEyla //
+75 water	eva //
+77 stone	pera //
+82 fire	fo //
+85 path	stra //
+86 mountain	muNta5a //
+92 night	noyt //
+95 full	pyEN //
+96 new	now //
+100 name	nom //",IE,ROMANCE,4109,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian",IE.ROMANCE,piem1238,pms,itu,,Indo-European,Indo-European,PIEMONTESE_LANZO_TORINESE,{},45.3,False,7.64,,Piemontese Lanzo Torinese,700000,4110,False,"PIEMONTESE_LANZO_TORINESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.30    7.64      700000   itu   pms
+1 I	mi //
+2 you	ti //
+3 we	nuy //
+11 one	uN //
+12 two	duy //
+18 person	om //
+19 fish	pES //
+21 dog	kaN //
+22 louse	puy //
+23 tree	pyaNta //
+25 leaf	foya //
+28 skin	pEl //
+30 blood	saNg //
+31 bone	os //
+34 horn	korn //
+39 ear	uriya //
+40 eye	oy //
+41 nose	nas //
+43 tooth	deNt //
+44 tongue	lENga //
+47 knee	Zinuy //
+48 hand	maN //
+51 breast	pEt //
+53 liver	fidik //
+54 drink	bEyve //
+57 see	v3di //
+58 hear	sENte //
+61 die	moyre //
+66 come	vni //
+72 sun	sul //
+74 star	stEyla //
+75 water	eva //
+77 stone	pEra //
+82 fire	fo //
+85 path	stra //
+86 mountain	muNta5a //
+92 night	noyt //
+95 full	pyEN //
+96 new	nov //
+100 name	nom //",IE,ROMANCE,4110,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian",IE.ROMANCE,piem1238,pms,itu,,Indo-European,Indo-European,PIEMONTESE_VERCELLESE,{},45.3,False,7.64,,Piemontese Vercellese,700000,4111,False,"PIEMONTESE_VERCELLESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.30    7.64      700000   itu   pms
+1 I	mi //
+2 you	ti //
+3 we	nuy //
+11 one	yuN //
+12 two	duy //
+18 person	omaN //
+19 fish	pos //
+21 dog	kaN //
+22 louse	pyoC //
+23 tree	pyaNta //
+25 leaf	foya //
+28 skin	pEl //
+30 blood	saN //
+31 bone	os //
+34 horn	kornu //
+39 ear	uroZa //
+40 eye	oC //
+41 nose	nas //
+43 tooth	deNC //
+44 tongue	leNgwa //
+47 knee	ZnoC //
+48 hand	maN //
+51 breast	stomik //
+53 liver	fidik //
+54 drink	bevi //
+57 see	vogi //
+58 hear	seNti //
+61 die	mori //
+66 come	5i //
+72 sun	sul //
+74 star	stola //
+75 water	akwa //
+77 stone	prEya //
+82 fire	fok //
+85 path	stra //
+86 mountain	muNta5a //
+92 night	noC //
+95 full	piN //
+96 new	nof //
+100 name	nom //",IE,ROMANCE,4111,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Portuguese-Galician","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,Brazil-PortugalPortuguese",IE.ROMANCE,port1283,por,por,,Indo-European,Indo-European,PORTUGUESE,{},39.0,False,-8.0,,Portuguese,222708500,4112,False,"PORTUGUESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Portuguese-Galician@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,Brazil-PortugalPortuguese}
+ 1   39.00   -8.00   222708500   por   por
+1 I	eu //
+2 you	tu //
+3 we	noS //
+11 one	u* //
+12 two	doiS //
+18 person	pErzon //
+19 fish	paiS3 //
+21 dog	ka*u* //
+22 louse	pioLu //
+23 tree	Ervur3 //
+25 leaf	foLa //
+28 skin	pEl3 //
+30 blood	sa*x3 //
+31 bone	osu //
+34 horn	Sifr3 //
+39 ear	oraLa //
+40 eye	oLu //
+41 nose	nariS //
+43 tooth	de*t3 //
+44 tongue	li*gua //
+47 knee	ZuaLu //
+48 hand	ma*u //
+51 breast	saiuS //
+53 liver	fixa8u //
+54 drink	b3b //
+57 see	ver //
+58 hear	ov //
+61 die	mur //
+66 come	vir //
+72 sun	sol //
+74 star	3Strela //
+75 water	Egw~a //
+77 stone	pEdra //
+82 fire	fogu //
+85 path	se*da //
+86 mountain	mo*ta5a //
+92 night	noyt3 //
+95 full	Seyu //
+96 new	novu //
+100 name	nom3 //",IE,ROMANCE,4112,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Portuguese-Galician","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,Brazil-PortugalPortuguese",IE.ROMANCE,port1283,por,por,,Indo-European,Indo-European,PORTUGUESE_2,{},39.0,False,-8.0,,Portuguese 2,222708500,4113,False,"PORTUGUESE_2{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Portuguese-Galician@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,Brazil-PortugalPortuguese}
+ 1   39.00   -8.00   222708500   por   por
+1 I	ew //
+2 you	tu //
+3 we	noS //
+4 this	iStu //
+5 that	isu, akilu //
+6 who	key //
+7 what	k3 //
+8 not	naw //
+9 all	to8u //
+11 one	u //
+12 two	doyS //
+13 big	grad3 //
+14 long	kopri8u //
+15 small	p3kenu //
+16 woman	muLer //
+17 man	omey //
+18 person	omey, p3soa //
+19 fish	peyS3 //
+20 bird	av3, pasaru //
+21 dog	kaw //
+22 louse	pyuLu //
+23 tree	arvur3 //
+24 seed	Semeteyra //
+25 leaf	foLa //
+26 root	raiS //
+27 bark	kaSka //
+28 skin	pEl3 //
+29 flesh	karn3 //
+30 blood	sag3 //
+31 bone	osu //
+32 grease	ba5a, xor8ura //
+33 egg	ovu //
+34 horn	kornu, Sifre //
+35 tail	rabu, kaw8a //
+36 feather	pena //
+37 hair	kabelu //
+38 head	kabesa //
+39 ear	oreLa //
+40 eye	oLu //
+41 nose	nariS //
+42 mouth	boka //
+43 tooth	det3 //
+44 tongue	ligwa //
+45 claw	u5a //
+46 foot	pE //
+47 knee	ZweLu //
+48 hand	maw //
+49 belly	vetr3, barixa //
+50 neck	kolu, p3Skosu //
+51 breast	Seyu //
+52 heart	kurasaw //
+53 liver	fixa8u //
+54 drink	b3ber //
+55 eat	kumer //
+56 bite	mur8er //
+57 see	ver //
+58 hear	ovir //
+59 know	saber //
+60 sleep	durmir //
+61 die	murer //
+62 kill	matar //
+63 swim	na8ar //
+64 fly	vwar //
+65 walk	adar, kami5ar //
+66 come	vir //
+67 lie	Zazer, iStar deyta8u //
+68 sit	iStarSeta8u //
+69 stand	iStarepe //
+70 give	dar //
+71 say	dizer //
+72 sun	soL //
+73 moon	lua //
+74 star	iStrEla //
+75 water	axwa //
+76 rain	Suva //
+77 stone	pE8ra //
+78 sand	areya //
+79 earth	tEra //
+80 cloud	nuvey //
+81 smoke	fumu //
+82 fire	foxu //
+83 ash	siza //
+84 burn	ar8er //
+85 path	Seda, triLu //
+86 mountain	mot3, mota5a //
+87 red	v3rmeLu //
+88 green	ver83 //
+89 yellow	amarElu //
+90 white	braku //
+91 black	pretu //
+92 night	noyt3 //
+93 hot	ket3 //
+94 cold	friw //
+95 full	Seyu //
+96 new	novu //
+97 good	b //
+98 round	r38odu //
+99 dry	seku //
+100 name	nom3 //",IE,ROMANCE,4113,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo",IE.ROMANCE,roma1328,rgn,,,Indo-European,Indo-European,ROMAGNOL,{},44.23,False,11.72,,Romagnol,0,4114,True,"ROMAGNOL{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo}
+ 1   44.23   11.72          -1         rgn
+1 I	a, ia //
+2 you	t //
+3 we	a, nun //
+11 one	un, oun //
+12 two	do //
+18 person	person //
+19 fish	pEs, pES //
+21 dog	ka*, kEn //
+22 louse	bdoC //
+23 tree	oibri //
+25 leaf	foya //
+28 skin	pEla //
+31 bone	os //
+34 horn	korni //
+39 ear	urECa //
+40 eye	oC //
+41 nose	nEz //
+43 tooth	dEi5t //
+44 tongue	lENgwa //
+47 knee	znoC //
+48 hand	mEna //
+51 breast	tEta, pEt //
+53 liver	fegh~et //
+54 drink	boi, be //
+57 see	voida, be //
+58 hear	santi //
+61 die	muri //
+66 come	avni, amni //
+72 sun	sol, soul //
+74 star	stEla //
+75 water	akua, akwa //
+77 stone	pre, sas //
+82 fire	fug //
+85 path	sintir, santir //
+86 mountain	mou5t //
+92 night	nota //
+95 full	pina, peNa //
+96 new	nuv, nova, novi //",IE,ROMANCE,4114,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo",IE.ROMANCE,roma1328,rgn,,,Indo-European,Indo-European,ROMAGNOL_2,{},44.23,False,11.72,,Romagnol 2,0,4115,True,"ROMAGNOL_2{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo}
+ 1   44.23   11.72          -1         rgn
+1 I	a, ia //
+2 you	t //
+3 we	a, nun //
+11 one	un, oun //
+12 two	do //
+18 person	person //
+19 fish	pEs, pES //
+21 dog	ka*, kEn //
+22 louse	bdoC //
+23 tree	oibri //
+25 leaf	foya //
+28 skin	pEla //
+31 bone	os //
+34 horn	korni //
+39 ear	urECa //
+40 eye	oC //
+41 nose	nEz //
+43 tooth	dEi5t //
+44 tongue	lENgwa //
+47 knee	znoC //
+48 hand	mEna //
+51 breast	tEta, pEt //
+53 liver	fegh~et //
+54 drink	boi, be //
+57 see	voida, be //
+58 hear	santi //
+61 die	muri //
+66 come	avni, amni //
+72 sun	sol, soul //
+74 star	stEla //
+75 water	akua, akwa //
+77 stone	pre, sas //
+82 fire	fug //
+85 path	sintir, santir //
+86 mountain	mou5t //
+92 night	nota //
+95 full	pina, peNa //
+96 new	nuv, nova, novi //",IE,ROMANCE,4115,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo",IE.ROMANCE,roma1328,rgn,,,Indo-European,Indo-European,ROMAGNOL_RAVENNATE,{},44.23,False,11.72,,Romagnol Ravennate,0,4116,True,"ROMAGNOL_RAVENNATE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo}
+ 1   44.23   11.72          -1         rgn
+1 I	me //
+2 you	te //
+3 we	now //
+11 one	own //
+12 two	do //
+18 person	sCan //
+19 fish	pEs //
+21 dog	kan //
+22 louse	bdoC //
+23 tree	e3lbar //
+25 leaf	foya //
+28 skin	pe3la //
+30 blood	saNgv //
+31 bone	os //
+34 horn	ko3ran //
+39 ear	urECa //
+40 eye	oC //
+41 nose	ne3z //
+43 tooth	dent //
+44 tongue	lengva //
+47 knee	ZnoC //
+48 hand	man //
+51 breast	pE3t //
+53 liver	fegat //
+54 drink	be //
+57 see	vde, avde //
+58 hear	sinti //
+61 die	muri //
+66 come	vni //
+72 sun	sowl //
+74 star	ste3la //
+75 water	akva //
+77 stone	sas //
+82 fire	fug //
+85 path	stre3 //
+86 mountain	mownt, munta5a //
+92 night	nota //
+95 full	pin //
+96 new	no3v //
+100 name	nom //",IE,ROMANCE,4116,
+"Indo-European,Italic,Romance,Eastern","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance",IE.ROMANCE,roma1327,ron,rom,,Indo-European,Indo-European,ROMANIAN,{},46.0,False,25.0,,Romanian,23425940,4117,False,"ROMANIAN{IE.ROMANCE|Indo-European,Italic,Romance,Eastern@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance}
+ 1   46.00   25.00    23425940   rom   ron
+2 you	tu //
+3 we	noi //
+11 one	unu //
+12 two	doi //
+18 person	persoan3 //
+19 fish	peSte //
+21 dog	k3ne //
+22 louse	p3duke //
+23 tree	pom, arbore //
+25 leaf	frunz3 //
+28 skin	py~ele //
+30 blood	s3nje //
+31 bone	os //
+34 horn	korn //
+39 ear	ureke //
+40 eye	oky~ //
+41 nose	nas //
+43 tooth	dinte //
+44 tongue	limb3 //
+47 knee	jenuNky~ //
+48 hand	m3n3 //
+51 breast	py~ept, s3n //
+53 liver	fikat //
+54 drink	bea //
+57 see	vedea //
+58 hear	auzy~ //
+61 die	mury~ //
+66 come	veny~ //
+72 sun	soare //
+74 star	stea //
+75 water	ap3 //
+77 stone	py~atr3 //
+82 fire	fok //
+85 path	k3rare //
+86 mountain	munte //
+92 night	noapte //
+95 full	plin //
+96 new	nou //
+100 name	nume //",IE,ROMANCE,4117,
+"Indo-European,Italic,Romance,Eastern","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance",IE.ROMANCE,roma1327,ron,rom,,Indo-European,Indo-European,ROMANIAN_2,{},46.0,False,25.0,,Romanian 2,23425940,4118,False,"ROMANIAN_2{IE.ROMANCE|Indo-European,Italic,Romance,Eastern@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance}
+ 1   46.00   25.00    23425940   rom   ron
+1 I	ew //
+2 you	tu //
+3 we	noy //
+11 one	unu //
+12 two	doy //
+18 person	om //
+19 fish	peSte //
+21 dog	kaine //
+22 louse	paduke //
+23 tree	arbore, pom, %kopak //
+25 leaf	%foaie, frunz3 //
+28 skin	pyele //
+30 blood	s3nje //
+31 bone	os //
+34 horn	korn //
+39 ear	ureke //
+40 eye	oky //
+41 nose	nas //
+43 tooth	dinte //
+44 tongue	limb3 //
+47 knee	jenuNky //
+48 hand	m3n3 //
+51 breast	s3n //
+53 liver	fikat //
+54 drink	bea //
+57 see	vedea //
+58 hear	auzy //
+61 die	%deceda, %expira, mury, pieri, raposa, %sucomba //
+66 come	veny //
+72 sun	soare //
+74 star	stea, steaua //
+75 water	ap3 //
+77 stone	pyatr3 //
+82 fire	fok //
+85 path	cale, %drum //
+86 mountain	%colina, %deal, %magura, munte //
+92 night	noapte //
+95 full	plin //
+96 new	now //
+100 name	nume //",IE,ROMANCE,4118,
+"Indo-European,Italic,Romance,Eastern","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance",IE.ROMANCE,roma1327,ron,rom,,Indo-European,Indo-European,ROMANIAN_3,{},46.0,False,25.0,,Romanian 3,23425940,4119,False,"ROMANIAN_3{IE.ROMANCE|Indo-European,Italic,Romance,Eastern@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance}
+ 1   46.00   25.00    23425940   rom   ron
+1 I	yew //
+2 you	tu //
+3 we	noy //
+4 this	aCesta //
+5 that	asta //
+6 who	kine //
+7 what	Ce //
+8 not	nu //
+9 all	tot //
+11 one	unu //
+12 two	doy //
+13 big	mare //
+14 long	lung //
+15 small	mik //
+16 woman	femeye //
+17 man	om, b3rbat //
+18 person	om, persoan3 //
+19 fish	peSte //
+20 bird	pas3re //
+21 dog	k3yne //
+22 louse	p3duke //
+23 tree	kopak, arbore //
+24 seed	sem3n3tur3 //
+25 leaf	frunz3 //
+26 root	r3d3Cin3 //
+27 bark	skoarc3 //
+28 skin	pyele //
+29 flesh	karne //
+30 blood	s3nje //
+31 bone	os //
+32 grease	untur3, gr3sime //
+33 egg	ow //
+34 horn	korn //
+35 tail	koad3 //
+36 feather	pan3 //
+37 hair	p3r //
+38 head	kap //
+39 ear	ureke //
+40 eye	oky~ //
+41 nose	nas //
+42 mouth	gur3 //
+43 tooth	dinte //
+44 tongue	limb3 //
+45 claw	ungye //
+46 foot	piCyor //
+47 knee	jenunky~ //
+48 hand	m3n3 //
+49 belly	burt3, p3nteCe //
+50 neck	g3t //
+51 breast	s3n //
+52 heart	inim3 //
+53 liver	fikat //
+54 drink	bea //
+55 eat	m3nka //
+56 bite	muSka //
+57 see	vedea //
+58 hear	awzy~ //
+59 know	Sti //
+60 sleep	dormy~ //
+61 die	mury~ //
+62 kill	omor3 //
+63 swim	3nota //
+64 fly	zbura //
+65 walk	merje, merje pe Zos //
+66 come	veny~ //
+67 lie	z3Cea, fi kulkat //
+68 sit	Sedea //
+69 stand	sta //
+70 give	da //
+71 say	ziCe, spune //
+72 sun	soare //
+73 moon	lun3 //
+74 star	stea //
+75 water	ap3 //
+76 rain	ploaye //
+77 stone	pyatr3 //
+78 sand	nisip //
+79 earth	p3m3nt //
+80 cloud	nor //
+81 smoke	fum //
+82 fire	fok //
+83 ash	CenuS3 //
+84 burn	arde //
+85 path	k3rare //
+86 mountain	munte //
+87 red	roSu //
+88 green	verde //
+89 yellow	galben //
+90 white	alb //
+91 black	negru //
+92 night	noapte //
+93 hot	kald, fyerbinte //
+94 cold	reCe //
+95 full	plin //
+96 new	now //
+97 good	bun //
+98 round	rotund, Cirkular //
+99 dry	sek, uskat //
+100 name	nume //",IE,ROMANCE,4119,
+"Indo-European,Italic,Romance,Eastern","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance",IE.ROMANCE,megl1237,ruq,,,Indo-European,Indo-European,ROMANIAN_MEGLENO,{},41.12,False,22.38,,Romanian Megleno,5000,4120,False,"ROMANIAN_MEGLENO{IE.ROMANCE|Indo-European,Italic,Romance,Eastern@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance}
+ 1   41.12   22.38        5000         ruq
+1 I	yo, yew, iwe //
+2 you	tu //
+3 we	noy //
+11 one	un //
+12 two	doy //
+18 person	wom //
+19 fish	peaSti //
+21 dog	koyni //
+22 louse	pidukLu //
+23 tree	arbur //
+25 leaf	frunz3 //
+28 skin	koaZ3 //
+30 blood	sonzi //
+31 bone	wos //
+34 horn	korn //
+39 ear	ureakL3 //
+40 eye	wokLu //
+41 nose	nas //
+43 tooth	dinti //
+44 tongue	limbe //
+47 knee	zinkLu //
+48 hand	mon3 //
+51 breast	Ciept, sin //
+53 liver	drop //
+54 drink	beaw //
+57 see	vet //
+58 hear	ut //
+61 die	mor //
+66 come	vin //
+72 sun	soari //
+74 star	stew3 //
+75 water	apu //
+77 stone	rop3 //
+82 fire	fok //
+85 path	drum //
+86 mountain	munti //
+92 night	noapti //
+95 full	plin, amplin //
+96 new	now //
+100 name	numi //",IE,ROMANCE,4120,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian",IE.ROMANCE,roma1326,roh,rmc,,Indo-European,Indo-European,ROMANSH_GRISHUN,{},46.55,False,9.93,,Romansh Grishun,40000,4121,False,"ROMANSH_GRISHUN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.55    9.93       40000   rmc   roh
+1 I	yaw //
+2 you	ti //
+3 we	nus //
+11 one	en //
+12 two	dus //
+18 person	k3rSTawn //
+19 fish	peS //
+21 dog	Tawn //
+22 louse	pluL //
+23 tree	plant3 //
+25 leaf	feL //
+28 skin	pel //
+30 blood	saNk //
+31 bone	os //
+34 horn	korn3 //
+39 ear	ureL3 //
+40 eye	eL //
+41 nose	nas //
+43 tooth	dEnt //
+44 tongue	lyewNg3 //
+47 knee	Z3neye //
+48 hand	mawn //
+51 breast	pET //
+53 liver	5irom //
+54 drink	bayv3r //
+57 see	v3zayr //
+58 hear	udir //
+61 die	murir //
+66 come	v35ir //
+72 sun	suleL //
+74 star	Stayl3 //
+75 water	aw3 //
+77 stone	krap //
+82 fire	fyew //
+85 path	vi3 //
+86 mountain	munto53 //
+92 night	noT //
+95 full	playn //
+96 new	nof //
+100 name	num //",IE,ROMANCE,4121,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian",IE.ROMANCE,roma1326,roh,rsm,,Indo-European,Indo-European,ROMANSH_SURMIRAN,{},46.55,False,9.93,,Romansh Surmiran,40000,4122,False,"ROMANSH_SURMIRAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.55    9.93       40000   rsm   roh
+1 I	i3 //
+2 you	te //
+3 we	nows //
+11 one	en //
+12 two	dus //
+18 person	k3rstaN //
+19 fish	peS //
+21 dog	TaN //
+22 louse	pluL //
+23 tree	plant3 //
+25 leaf	fiL //
+28 skin	pel //
+30 blood	saNk //
+31 bone	os //
+34 horn	korn3 //
+39 ear	urey3 //
+40 eye	iL //
+41 nose	nas //
+43 tooth	daynt //
+44 tongue	LaNg3 //
+47 knee	g3nuL //
+48 hand	maN //
+51 breast	pET //
+53 liver	nirom //
+54 drink	bev3r //
+57 see	vEkr //
+58 hear	santkEr //
+61 die	murEkr //
+66 come	nEkr //
+72 sun	suLeL //
+74 star	stEyl3 //
+75 water	av3 //
+77 stone	krap //
+82 fire	fi //
+85 path	vey3 //
+86 mountain	munto53 //
+92 night	noT //
+95 full	pla5 //
+96 new	nof //
+100 name	nom //",IE,ROMANCE,4122,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian",IE.ROMANCE,roma1326,roh,rmc,,Indo-European,Indo-European,ROMANSH_SURSILVAN,{},46.67,False,8.83,,Romansh Sursilvan,40000,4123,False,"ROMANSH_SURSILVAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.67    8.83       40000   rmc   roh
+1 I	yEu //
+2 you	ti //
+3 we	nus //
+11 one	in //
+12 two	dus //
+18 person	pErsun3 //
+19 fish	pES //
+21 dog	Caun //
+22 louse	pluL //
+23 tree	plont3 //
+25 leaf	fEL //
+28 skin	py~al //
+30 blood	sauN //
+31 bone	ies, os //
+34 horn	Ciern //
+39 ear	ureL3 //
+40 eye	eL //
+41 nose	nas //
+43 tooth	dEnt //
+44 tongue	ly~EuNga //
+47 knee	SanuL //
+48 hand	maun //
+51 breast	pEc, sein //
+53 liver	dir //
+54 drink	beibEr //
+57 see	v3zEr //
+58 hear	udir //
+61 die	murir //
+66 come	ve5ir //
+72 sun	sulEL //
+74 star	Steil3 //
+77 stone	krap //
+82 fire	fy~ug //
+85 path	sEnd3, via //
+86 mountain	kuolm, munto53 //
+92 night	noC //
+95 full	plein //
+96 new	nief //
+100 name	num //",IE,ROMANCE,4123,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian",IE.ROMANCE,roma1326,roh,rmc,,Indo-European,Indo-European,ROMANSH_VALLADER,{},46.55,False,9.93,,Romansh Vallader,40000,4124,False,"ROMANSH_VALLADER{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.55    9.93       40000   rmc   roh
+1 I	Ew //
+2 you	tu //
+3 we	nus //
+11 one	un //
+12 two	dwos, dus //
+18 person	uman //
+19 fish	peS //
+21 dog	San //
+22 louse	plwoL //
+23 tree	bEsS //
+25 leaf	foL3 //
+28 skin	pel //
+30 blood	saNk //
+31 bone	os //
+34 horn	korn3 //
+39 ear	uraL3 //
+40 eye	oL //
+41 nose	nas //
+43 tooth	daynt //
+44 tongue	lew3 //
+47 knee	ZnwoL //
+48 hand	man //
+51 breast	pet //
+53 liver	53rom, 4irom //
+54 drink	bayv3r //
+57 see	v3Cer, v3rer //
+58 hear	dudir //
+61 die	murir //
+66 come	5ir //
+72 sun	sulay //
+74 star	stayl3 //
+75 water	aw3 //
+77 stone	krap //
+82 fire	fo //
+85 path	vi3 //
+86 mountain	munto53 //
+92 night	not //
+95 full	playn //
+96 new	nowf //
+100 name	nom //",IE,ROMANCE,4124,
+"Indo-European,Italic,Romance,Southern,Sardinian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Sardinian",IE.ROMANCE,,,,,Indo-European,Indo-European,SARDINIAN,{},40.0,False,9.0,,Sardinian,0,4125,False,"SARDINIAN{IE.ROMANCE|Indo-European,Italic,Romance,Southern,Sardinian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Sardinian}
+ 1   40.00    9.00           0            
+1 I	deo //
+3 we	nos //
+11 one	unu //
+12 two	duos //
+18 person	pesone //
+19 fish	piSe //
+21 dog	kane //
+22 louse	priogu //
+23 tree	arvure //
+25 leaf	foza //
+28 skin	pede //
+30 blood	sambene //
+31 bone	osu //
+34 horn	koru //
+39 ear	uriga //
+40 eye	ogu //
+41 nose	nasu //
+43 tooth	dente //
+44 tongue	limba //
+47 knee	enugu //
+48 hand	manu //
+51 breast	petus //
+53 liver	figadu //
+54 drink	biere //
+57 see	biere //
+58 hear	intendere //
+61 die	morere //
+66 come	benere //
+72 sun	sole //
+74 star	isteda //
+75 water	aba //
+77 stone	pedra //
+82 fire	fogu //
+85 path	istrada //
+86 mountain	munta5a //
+92 night	note //
+95 full	prenu //
+96 new	nou //
+100 name	lumene //",IE,ROMANCE,4125,
+"Indo-European,Italic,Romance,Southern,Sardinian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Sardinian",IE.ROMANCE,camp1261,sro,srd,,Indo-European,Indo-European,SARDINIAN_CAMPIDANESE,{},39.06,False,9.04,,Sardinian Campidanese,500000,4126,False,"SARDINIAN_CAMPIDANESE{IE.ROMANCE|Indo-European,Italic,Romance,Southern,Sardinian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Sardinian}
+ 1   39.06    9.04      500000   srd   sro
+1 I	dEw //
+2 you	tuy //
+3 we	nozu, nozatruzu //
+11 one	unu //
+12 two	duzu //
+18 person	omini //
+19 fish	piSi //
+21 dog	kai //
+22 louse	prioxu //
+23 tree	mata //
+25 leaf	fola //
+28 skin	pEdi //
+30 blood	SaNguni //
+31 bone	osu //
+34 horn	koru //
+39 ear	orixa //
+40 eye	oxu //
+41 nose	nazu //
+43 tooth	dEnti //
+44 tongue	limba //
+47 knee	jenuxu //
+48 hand	manu //
+51 breast	pitura //
+53 liver	figaw //
+54 drink	bufay //
+57 see	biri, bidi //
+58 hear	intEndi //
+61 die	mori //
+66 come	bEni //
+72 sun	soli //
+74 star	stEda //
+75 water	aba //
+77 stone	perda, pedra //
+82 fire	foxu //
+85 path	aruxa //
+86 mountain	monti //
+92 night	noti //
+95 full	prenu //
+96 new	now //
+100 name	nomini //",IE,ROMANCE,4126,
+"Indo-European,Italic,Romance,Southern,Sardinian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Sardinian",IE.ROMANCE,logu1236,src,,,Indo-European,Indo-European,SARDINIAN_LOGUDARESE,{},40.5,False,9.1,,Sardinian Logudarese,500000,4127,False,"SARDINIAN_LOGUDARESE{IE.ROMANCE|Indo-European,Italic,Romance,Southern,Sardinian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Sardinian}
+ 1   40.50    9.10      500000         src
+1 I	deo //
+2 you	tue //
+3 we	nois //
+11 one	unu //
+12 two	duos //
+18 person	omine //
+19 fish	piske //
+21 dog	kane //
+22 louse	preuku //
+23 tree	arvure, arvule //
+25 leaf	foZa //
+28 skin	pede //
+30 blood	sambene //
+31 bone	osu //
+34 horn	koru //
+39 ear	orikra //
+40 eye	okru //
+41 nose	nasu //
+43 tooth	dente //
+44 tongue	limba //
+47 knee	benukru //
+48 hand	manu //
+51 breast	petora //
+53 liver	fikadu //
+54 drink	bufare //
+57 see	biere //
+58 hear	intendere //
+61 die	morere //
+66 come	benere //
+72 sun	sole //
+74 star	isteda //
+75 water	aba //
+77 stone	perda //
+82 fire	fogu //
+85 path	istrada //
+86 mountain	monte //
+92 night	note //
+95 full	prenu //
+96 new	novu //
+100 name	lumene //",IE,ROMANCE,4127,
+"Indo-European,Italic,Romance,Southern,Sardinian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian",IE.ROMANCE,sass1235,sdc,,,Indo-European,Indo-European,SASSARESE,{},40.81,False,8.62,,Sassarese,100000,4128,False,"SASSARESE{IE.ROMANCE|Indo-European,Italic,Romance,Southern,Sardinian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   40.81    8.62      100000         sdc
+1 I	eu //
+2 you	Edu //
+3 we	noi //
+11 one	unu //
+12 two	dui // //
+18 person	pasona //
+19 fish	pESu //
+21 dog	kani //
+22 louse	pidoCu //
+23 tree	trE //
+25 leaf	foLa //
+28 skin	pedi //
+30 blood	saNgu //
+31 bone	osu //
+34 horn	koru //
+39 ear	areCi //
+40 eye	oCi //
+41 nose	nazu //
+43 tooth	gaSara //
+44 tongue	liNga //
+47 knee	jinoCi //
+48 hand	manu //
+51 breast	tita //
+53 liver	figadu //
+54 drink	bi //
+57 see	vide //
+58 hear	intindi //
+61 die	muri //
+66 come	vini //
+72 sun	sori //
+74 star	iLEla //
+75 water	Eba //
+77 stone	preda //
+82 fire	fogu //
+85 path	kaminu //
+86 mountain	monti //
+92 night	noti //
+95 full	pyEnu // //
+96 new	nobu //
+100 name	inomu //",IE,ROMANCE,4128,
+"Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance",IE.ROMANCE,sici1248,scn,,,Indo-European,Indo-European,SICILIAN_UnnamedInSource,{},37.5,False,14.0,,Sicilian Unnamedinsource,4700000,4129,False,"SICILIAN_UnnamedInSource{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance}
+ 1   37.50   14.00     4700000         scn
+1 I	iu, eu //
+3 we	nuautri //
+11 one	unu //
+12 two	du, dui //
+18 person	pirsuna //
+19 fish	peSi, piSi //
+21 dog	kani //
+23 tree	arbulu //
+25 leaf	fogia //
+28 skin	pedi //
+30 blood	saNgu //
+31 bone	osu //
+34 horn	kornutu //
+39 ear	orikia //
+40 eye	okiu //
+41 nose	naska, nasu //
+43 tooth	denti //
+44 tongue	liNw~a //
+47 knee	dinokiu //
+48 hand	manu //
+51 breast	petu, mina //
+53 liver	fiCatu //
+54 drink	biviri, vippita //
+57 see	vidiri //
+58 hear	sentiri, ascutari //
+61 die	moriri, muriri //
+66 come	veniri, viniri //
+72 sun	suli //
+74 star	stida //
+75 water	akw~a //
+77 stone	petra //
+82 fire	foku //
+85 path	strata, via //
+86 mountain	munta5a //
+92 night	noti //
+95 full	Cinu, saciu //
+96 new	novu //
+100 name	nomi, nomu //",IE,ROMANCE,4129,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Castilian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic",IE.ROMANCE,stan1288,spa,spa,,Indo-European,Indo-European,SPANISH,{},40.0,False,-4.0,,Spanish,442384990,4130,False,"SPANISH{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Castilian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic}
+ 1   40.00   -4.00   442384990   spa   spa
+1 I	yo //
+2 you	ustet, tu //
+3 we	nosotros //
+4 this	este //
+5 that	ese, akely~a //
+6 who	kien //
+7 what	ke //
+8 not	no //
+9 all	todos //
+10 many	muCos //
+11 one	uno //
+12 two	dos //
+13 big	grande //
+14 long	largo //
+15 small	peke5o, Ciko //
+16 woman	muher //
+17 man	ombre //
+18 person	persona //
+19 fish	peskado, pes //
+20 bird	ave, paharo //
+21 dog	pero //
+22 louse	pioho //
+23 tree	arbol, palo //
+24 seed	semiya //
+25 leaf	oha //
+26 root	rais //
+27 bark	kortesa, kaskara //
+28 skin	piel //
+29 flesh	karne //
+30 blood	sangre //
+31 bone	weso //
+32 grease	grasa //
+33 egg	wevo //
+34 horn	kw~erno //
+35 tail	kola, rabo //
+36 feather	pluma //
+37 hair	pelo, kabeyo //
+38 head	kabesa //
+39 ear	oreha //
+40 eye	oho //
+41 nose	naris //
+42 mouth	boka //
+43 tooth	diente //
+44 tongue	lengw~a //
+45 claw	gara //
+46 foot	pie, pata //
+47 knee	rodiya //
+48 hand	mano //
+49 belly	bariga //
+50 neck	kw~eyo, peskw~eso //
+51 breast	peCo, seno //
+52 heart	korason //
+53 liver	igado //
+54 drink	bebe, toma //
+55 eat	kome //
+56 bite	morde //
+57 see	ve //
+58 hear	oir //
+59 know	sabe, konose //
+60 sleep	dormi //
+61 die	mori //
+62 kill	mata //
+63 swim	nada //
+64 fly	vola //
+65 walk	anda, kamina //
+66 come	veni //
+67 lie	akosta, eCa //
+68 sit	senta //
+69 stand	esta de pie //
+70 give	da //
+71 say	desi //
+72 sun	sol //
+73 moon	luna //
+74 star	estreya //
+75 water	agw~a //
+76 rain	yuvia //
+77 stone	piedra //
+78 sand	arena //
+79 earth	tiera //
+80 cloud	nube //
+81 smoke	umo //
+82 fire	fuego //
+83 ash	senisa //
+84 burn	kema, arde //
+85 path	senda //
+86 mountain	sero, monta5a //
+87 red	roho, kolorado //
+88 green	verde //
+89 yellow	amariyo //
+90 white	blanko //
+91 black	negro //
+92 night	noCe //
+93 hot	kaliente //
+94 cold	frio //
+95 full	yeno //
+96 new	nuevo //
+97 good	bw~eno //
+98 round	redondo //
+99 dry	seko //
+100 name	nombre //",IE,ROMANCE,4130,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Castilian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic",IE.ROMANCE,stan1288,spa,spa,,Indo-European,Indo-European,SPANISH_2,{},40.0,False,-4.0,,Spanish 2,442384990,4131,False,"SPANISH_2{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Castilian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic}
+ 1   40.00   -4.00   442384990   spa   spa
+1 I	So //
+2 you	tu //
+3 we	nosotros //
+4 this	esto //
+5 that	eso, esto //
+6 who	kyen //
+7 what	ke //
+8 not	no //
+9 all	to8o //
+11 one	uno //
+12 two	dos //
+13 big	grande //
+14 long	larxo //
+15 small	peke5o //
+16 woman	muxer //
+17 man	ombre //
+18 person	ombre, ser umano //
+19 fish	pe8 //
+20 bird	abe, paxaro //
+21 dog	pero //
+22 louse	pyoxo //
+23 tree	arbol //
+24 seed	syembra //
+25 leaf	oxa //
+26 root	rai8 //
+27 bark	korte8a //
+28 skin	pyel //
+29 flesh	karne //
+30 blood	saNgre //
+31 bone	weso //
+32 grease	grasa //
+33 egg	webo //
+34 horn	asta, kwerno //
+35 tail	kola //
+36 feather	pluma //
+37 hair	kabeSo //
+38 head	kabe8a //
+39 ear	orexa //
+40 eye	oxo //
+41 nose	nari8 //
+42 mouth	boka //
+43 tooth	dyente //
+44 tongue	leNgwa //
+45 claw	u5a //
+46 foot	pye //
+47 knee	ro8iSa //
+48 hand	mano //
+49 belly	byentre //
+50 neck	kweSo //
+51 breast	peCo //
+52 heart	kora8on //
+53 liver	ixa8o //
+54 drink	beber //
+55 eat	komer //
+56 bite	mor8er //
+57 see	ber //
+58 hear	oir //
+59 know	saber //
+60 sleep	dormir //
+61 die	morir //
+62 kill	matar //
+63 swim	na8ar //
+64 fly	bolar //
+65 walk	andar //
+66 come	benir //
+67 lie	Sa8er, estar akosta8o //
+68 sit	estar senta8o //
+69 stand	estar 8e pye //
+70 give	dar //
+71 say	de8ir //
+72 sun	sol //
+73 moon	luna //
+74 star	estreSa //
+75 water	axwa //
+76 rain	Subya //
+77 stone	pye8ra //
+78 sand	arena //
+79 earth	tyera //
+80 cloud	nube //
+81 smoke	wmo //
+82 fire	fwexo //
+83 ash	8eni8a //
+84 burn	ar8er, kemar //
+85 path	sendero //
+86 mountain	monte, monta5a //
+87 red	roxo //
+88 green	ber8e //
+89 yellow	amariSo //
+90 white	blaNko //
+91 black	nexro //
+92 night	noCe //
+93 hot	kali8o, kalyente //
+94 cold	frio //
+95 full	Seno //
+96 new	nwebo //
+97 good	bweno //
+98 round	re8ondo //
+99 dry	seko //
+100 name	nombre //",IE,ROMANCE,4131,
+"Indo-European,Italic,Romance,Eastern","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance",IE.ROMANCE,arom1237,rup,,,Indo-European,Indo-European,TURIA_AROMANIAN,{},40.0,False,20.75,,Turia Aromanian,112960,4132,False,"TURIA_AROMANIAN{IE.ROMANCE|Indo-European,Italic,Romance,Eastern@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance}
+ 1   40.00   20.75      112960         rup
+1 I	yo //
+2 you	tini //
+3 we	noy //
+11 one	unw~ //
+12 two	doi, doaua //
+18 person	omw~ //
+28 skin	ky~ali //
+30 blood	sanc~i //
+31 bone	os //
+34 horn	kornu //
+39 ear	ureakLi //
+40 eye	okLu //
+41 nose	nari //
+43 tooth	dind~i //
+44 tongue	limb~a //
+47 knee	cinukLu //
+48 hand	mana //
+51 breast	caca //
+53 liver	layw~ ikatw~ //
+75 water	apa //
+77 stone	ky~itriCa, gurguLi //
+85 path	ky~ali //
+86 mountain	munt~i, mund~i //",IE,ROMANCE,4132,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance",IE.ROMANCE,stan1289,cat,ctl,,Indo-European,Indo-European,VALENCIAN,{},39.47,False,-0.38,,Valencian,4053310,4133,False,"VALENCIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance}
+ 1   39.47   -0.38     4053310   ctl   cat
+1 I	yo //
+2 you	tu //
+3 we	nosaltres //
+11 one	uns //
+12 two	dos //
+18 person	persone //
+19 fish	peiS //
+21 dog	gos //
+23 tree	arbre //
+25 leaf	fuLa //
+28 skin	peL //
+30 blood	saN //
+31 bone	os //
+34 horn	ba5a //
+39 ear	orELa //
+40 eye	uL //
+41 nose	nas //
+43 tooth	dent //
+44 tongue	LeNgw$a //
+47 knee	CinoL //
+48 hand	ma //
+54 drink	bEure //
+57 see	vEure //
+58 hear	sentir //
+61 die	morir //
+72 sun	sol //
+74 star	estrEla, estEl //
+75 water	aixw~a //
+77 stone	pe8ra //
+82 fire	fok //
+85 path	kami //
+86 mountain	munta5a //
+92 night	nit //
+95 full	plE //
+96 new	now, nou //
+100 name	nom //",IE,ROMANCE,4133,
+"Indo-European,Italic,Romance,Eastern","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance",IE.ROMANCE,arom1237,rup,,,Indo-European,Indo-European,VLACH,{},39.67,False,21.33,,Vlach,112960,4134,False,"VLACH{IE.ROMANCE|Indo-European,Italic,Romance,Eastern@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance}
+ 1   39.67   21.33      112960         rup
+1 I	eu, siNuru //
+2 you	tini //
+3 we	noi //
+11 one	unu, una //
+12 two	dui, doua //
+18 person	omu, birbatu //
+19 fish	pesku //
+23 tree	arbor, pomu //
+28 skin	kiali //
+30 blood	sinca //
+39 ear	uriacli //
+40 eye	okklu //
+43 tooth	dinti //
+44 tongue	limba //
+47 knee	cinuklu //
+48 hand	mina //
+51 breast	keptu //
+54 drink	abea, beaun, midu //
+57 see	vedu //
+58 hear	aseultu, andu //
+61 die	moru //
+66 come	gini, yinu //
+72 sun	suari //
+74 star	stiaua //
+75 water	apa //
+77 stone	gena, osu, kiatra //
+82 fire	foku //
+86 mountain	mundi, jana //
+92 night	napte, lopti, nuapti //
+95 full	mplinu //
+96 new	nou //
+100 name	numa //",IE,ROMANCE,4134,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Oil,French","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil",IE.ROMANCE,wall1255,wln,,,Indo-European,Indo-European,WALLOON,{},50.22,False,5.15,,Walloon,600000,4135,False,"WALLOON{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Oil,French@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil}
+ 1   50.22    5.15      600000         wln
+1 I	Ce //
+2 you	te //
+3 we	nos //
+11 one	E* //
+18 person	o*m //
+21 dog	Ce* //
+28 skin	pow //
+39 ear	oreye //
+40 eye	ui //
+54 drink	bwEr //
+58 hear	Sute //
+61 die	murrir //
+66 come	vnir //
+74 star	twEl //
+75 water	Ew3 //
+82 fire	fE //
+85 path	vwa*y //
+95 full	pli* //
+96 new	novEl //",IE,ROMANCE,4135,
+"Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Oil,French","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil",IE.ROMANCE,wall1255,wln,,,Indo-European,Indo-European,WALLOON_2,{},50.22,False,5.15,,Walloon 2,600000,4136,False,"WALLOON_2{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Oil,French@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil}
+ 1   50.22    5.15      600000         wln
+1 I	Ce //
+2 you	te //
+3 we	nos //
+11 one	E* //
+18 person	o*m //
+21 dog	Ce* //
+28 skin	pow //
+39 ear	oreye //
+40 eye	ui //
+54 drink	bwEr //
+58 hear	Sute //
+61 die	murrir //
+66 come	vnir //
+74 star	twEl //
+75 water	Ew3 //
+82 fire	fE //
+85 path	vwa*y //
+95 full	pli* //
+96 new	novEl //",IE,ROMANCE,4136,
+"Creole,Portuguesebased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,LowerGuineaPortuguese",Oth.CREOLES_AND_PIDGINS,ango1258,aoa,ago,,Creole,Indo-European,ANGOLAR,{},0.25,False,6.5,,Angolar,13200,9713,False,"ANGOLAR{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,LowerGuineaPortuguese}
+ 1    0.25    6.50       13200   ago   aoa
+1 I	am //
+2 you	bo //
+3 we	no //
+12 two	do8u //
+18 person	%ng~e //
+19 fish	%kikie //
+21 dog	ka8o //
+22 louse	iru //
+23 tree	po //
+25 leaf	fia //
+28 skin	pEli //
+30 blood	8ang~i //
+31 bone	oso //
+34 horn	ng~Ela, konEta //
+39 ear	oriya //
+40 eye	we //
+41 nose	nd~esi //
+43 tooth	dEnc~i //
+44 tongue	lungw$a //
+47 knee	%vEmp~una //
+48 hand	mo //
+51 breast	mama //
+53 liver	inc~ima //
+54 drink	bebe //
+57 see	bE //
+58 hear	nd~ //
+61 die	mui //
+66 come	bi //
+72 sun	%nk~umb~i //
+74 star	%tEtEmb~u //
+75 water	awa //
+77 stone	%mb~uru //
+82 fire	fogo //
+85 path	monc~a //
+86 mountain	mund~u //
+92 night	%nc~uku //
+95 full	ca, caru //
+96 new	novu //
+100 name	nomi //",Oth,CREOLES_AND_PIDGINS,9713,
+"Creole,Portuguesebased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,UpperGuineaPortuguese",Oth.CREOLES_AND_PIDGINS,kabu1256,kea,,,Creole,Indo-European,CAPE_VERDEAN_CREOLE,{},15.07,False,-23.6,,Cape Verdean Creole,734130,9722,False,"CAPE_VERDEAN_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,UpperGuineaPortuguese}
+ 1   15.07  -23.60      734130         kea
+1 I	ami, mi //
+2 you	bu, abo //
+3 we	nu, nos //
+11 one	un //
+12 two	dos //
+18 person	pesoa //
+19 fish	peSi //
+23 tree	arvi //
+28 skin	peli //
+30 blood	sang~i //
+34 horn	kornu //
+43 tooth	dent~i //
+48 hand	mon //
+54 drink	bebe //
+57 see	oja //
+58 hear	ubi, obi //
+61 die	more //
+66 come	ben //
+72 sun	sol //
+74 star	strela //
+75 water	agu //
+77 stone	pedra //
+85 path	kami5u //
+86 mountain	mont~a5a //
+92 night	noti //
+96 new	noba //
+100 name	nomi //",Oth,CREOLES_AND_PIDGINS,9722,
+"Creole,Portuguesebased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,LowerGuineaPortuguese",Oth.CREOLES_AND_PIDGINS,fada1250,fab,,,Creole,Indo-European,FA_D_AMBU,{},-1.42,False,5.58,,Fa D Ambu,6600,9724,False,"FA_D_AMBU{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,LowerGuineaPortuguese}
+ 1   -1.42    5.58        6600         fab
+1 I	mu //
+2 you	bo //
+3 we	nos //
+12 two	dos //
+18 person	3Ng3 //
+19 fish	piSi //
+23 tree	opa //
+43 tooth	dENCi //
+48 hand	oma* //
+54 drink	b3b3 //
+66 come	bi //
+75 water	awa //
+77 stone	budu //
+86 mountain	Liki //",Oth,CREOLES_AND_PIDGINS,9724,
+"Creole,Frenchbased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench,LesserAntilleanFrenchCreole",Oth.CREOLES_AND_PIDGINS,guad1242,gcf,gdl,,Creole,Indo-European,GUADELOUPE_CREOLE,{},16.25,False,-61.5,,Guadeloupe Creole,849000,9730,False,"GUADELOUPE_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench,LesserAntilleanFrenchCreole}
+ 1   16.25  -61.50      849000   gdl   gcf
+1 I	man, mw~en //
+3 we	nu //
+11 one	an, on //
+12 two	de //
+18 person	mun //
+19 fish	pw~ason //
+21 dog	Sien //
+22 louse	pu //
+23 tree	py~ebw~a //
+28 skin	po //
+30 blood	san //
+31 bone	zo //
+34 horn	kon //
+39 ear	zozey //
+40 eye	zye //
+41 nose	ne //
+43 tooth	dan //
+44 tongue	laN //
+47 knee	Zunu //
+48 hand	men //
+51 breast	tete //
+53 liver	fwa //
+54 drink	bw~e //
+57 see	vwe //
+58 hear	tand~e, tann //
+61 die	mo //
+66 come	vini //
+72 sun	soley //
+74 star	zetwal //
+75 water	dlo //
+77 stone	roX //
+82 fire	dife //
+85 path	Simen //
+86 mountain	mont~aNn //
+92 night	lannuit //
+95 full	plen //
+96 new	nef //
+100 name	non //",Oth,CREOLES_AND_PIDGINS,9730,
+"Creole,Frenchbased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench,GuyanicCreoleFrench",Oth.CREOLES_AND_PIDGINS,guia1246,gcr,gfr,,Creole,Indo-European,GUIANESE_CREOLE_FRENCH,{},5.0,False,-53.0,,Guianese Creole French,50000,9731,False,"GUIANESE_CREOLE_FRENCH{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench,GuyanicCreoleFrench}
+ 1    5.00  -53.00       50000   gfr   gcr
+1 I	mo //
+2 you	to //
+3 we	nu //
+11 one	un, run //
+18 person	mun, peson //
+19 fish	pw~azon //
+21 dog	Sy~en //
+22 louse	pu //
+23 tree	py~ebw~a //
+25 leaf	fey //
+28 skin	lapo //
+30 blood	disan //
+31 bone	zo //
+39 ear	zore, zorey //
+40 eye	wey //
+43 tooth	dan //
+44 tongue	laN //
+47 knee	junu //
+48 hand	lanmen //
+51 breast	potrin //
+54 drink	bw~e, pipe //
+57 see	we //
+58 hear	tande //
+61 die	muri //
+66 come	vini, vin //
+72 sun	soley //
+74 star	zetwel //
+75 water	dlo, dilo //
+77 stone	roS //
+82 fire	dife, fe //
+85 path	rut //
+86 mountain	montaNn~ //
+92 night	lanuit //
+95 full	plen //
+96 new	nuvo //
+100 name	non //",Oth,CREOLES_AND_PIDGINS,9731,
+"Creole,Portuguesebased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,UpperGuineaPortuguese",Oth.CREOLES_AND_PIDGINS,uppe1455,pov,gbc,,Creole,Indo-European,GUINEA_BISSAU_CRIOULO,{},12.0,False,-15.0,,Guinea Bissau Crioulo,285800,9732,False,"GUINEA_BISSAU_CRIOULO{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,UpperGuineaPortuguese}
+ 1   12.00  -15.00      285800   gbc   pov
+1 I	n //
+2 you	bu //
+3 we	no //
+11 one	un //
+12 two	dus //
+18 person	algin, pekadur //
+19 fish	pis //
+21 dog	kaCur //
+23 tree	po //
+34 horn	kornu //
+39 ear	oreya //
+40 eye	udyu //
+43 tooth	dinti //
+48 hand	mon //
+51 breast	mama //
+54 drink	bibi //
+57 see	oya //
+58 hear	obi //
+61 die	more //
+66 come	bin //
+72 sun	sol //
+75 water	yagu //
+82 fire	fugu //
+85 path	kaminyu //
+92 night	noti //
+96 new	nobu //
+100 name	nomi //",Oth,CREOLES_AND_PIDGINS,9732,
+"Creole,Frenchbased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench",Oth.CREOLES_AND_PIDGINS,hait1244,hat,hcr,,Creole,Indo-European,HAITIAN_CREOLE,{},19.0,False,-72.5,,Haitian Creole,7613800,9735,False,"HAITIAN_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench}
+ 1   19.00  -72.50     7613800   hcr   hat
+1 I	mw~e* //
+3 we	nu //
+11 one	yu* //
+12 two	de //
+18 person	mu* //
+19 fish	pw~aso* //
+21 dog	Se* //
+22 louse	pu //
+23 tree	py~ebw~a //
+25 leaf	fEy //
+28 skin	po //
+30 blood	sa* //
+31 bone	zo //
+34 horn	ko* //
+39 ear	zorEy //
+40 eye	zy~e //
+41 nose	ne* //
+43 tooth	da* //
+44 tongue	laN, la*g //
+47 knee	Zenu //
+48 hand	me* //
+51 breast	tete, se* //
+53 liver	fw~a //
+54 drink	bw~E //
+57 see	wE //
+58 hear	ta*de //
+61 die	muri //
+66 come	vini //
+72 sun	solEy //
+74 star	etw~al //
+75 water	dlo //
+77 stone	roS //
+82 fire	dife //
+85 path	Seme*, rut //
+86 mountain	mo*, mo*tay //
+92 night	lanuit //
+95 full	ple* //
+96 new	nuvo, nEf //
+100 name	no* //",Oth,CREOLES_AND_PIDGINS,9735,
+"Creole,Frenchbased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench,GuyanicCreoleFrench",Oth.CREOLES_AND_PIDGINS,kari1301,kmv,,,Creole,Indo-European,KARIPUNA_CREOLE,{},3.83,False,-51.5,,Karipuna Creole,2400,9740,False,"KARIPUNA_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench,GuyanicCreoleFrench}
+ 1    3.83  -51.50        2400         kmv
+1 I	mo //
+3 we	no //
+11 one	un, in //
+12 two	de //
+18 person	mun //
+19 fish	pw~aso* //
+21 dog	Se*, %zohe fizi //
+22 louse	pu //
+23 tree	bw~a, py~e //
+25 leaf	fei //
+28 skin	lapo //
+30 blood	jisa* //
+31 bone	zo //
+34 horn	kon //
+39 ear	zohe //
+40 eye	%wei //
+41 nose	ne //
+43 tooth	da* //
+44 tongue	laN //
+47 knee	Zunu //
+48 hand	lame* //
+51 breast	%poth~in //
+53 liver	fw~a //
+54 drink	bw~e //
+57 see	we //
+58 hear	ta*de //
+61 die	muhi //
+66 come	vin, vini //
+72 sun	solei //
+74 star	ztw~el //
+75 water	jilo, dlo //
+77 stone	hoS //
+82 fire	jife //
+92 night	nuit //
+96 new	nov //
+100 name	no* //",Oth,CREOLES_AND_PIDGINS,9740,
+"Creole,Portuguesebased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,Indo-Portuguesic,NorthernIndo-Portuguesic",Oth.CREOLES_AND_PIDGINS,korl1238,vkp,,,Creole,Indo-European,KORLAI,{},18.52,False,72.9,,Korlai,750,9743,False,"KORLAI{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,Indo-Portuguesic,NorthernIndo-Portuguesic}
+ 1   18.52   72.90         750         vkp
+1 I	yo //
+2 you	wo //
+3 we	no //
+12 two	doy //
+18 person	piso //
+19 fish	peS //
+21 dog	ka*w //
+22 louse	piyol //
+23 tree	alb //
+25 leaf	fol //
+28 skin	pal //
+30 blood	sayN //
+31 bone	os //
+34 horn	%SiN //
+39 ear	owid //
+40 eye	ol //
+41 nose	naris //
+43 tooth	dant~ //
+44 tongue	liN //
+47 knee	copa //
+48 hand	ma*w //
+51 breast	peyt //
+53 liver	fig //
+54 drink	bebe //
+57 see	parse //
+58 hear	owi //
+61 die	mhure //
+66 come	vi //
+72 sun	sol //
+74 star	istrel //
+75 water	ag //
+77 stone	pad //
+82 fire	fog //
+85 path	kami //
+86 mountain	%sar //
+92 night	anot //
+95 full	%iCid //
+96 new	nob //
+100 name	nom //",Oth,CREOLES_AND_PIDGINS,9743,
+"Pidgin,Romancebased","Pidgin,Romancebasedpidgin",Oth.CREOLES_AND_PIDGINS,ling1242,pml,,,Pidgin,Pidgin,LINGUA_FRANCA,{},33.86,False,10.85,,Lingua Franca,0,9747,True,"LINGUA_FRANCA{Oth.CREOLES_AND_PIDGINS|Pidgin,Romancebased@Pidgin,Romancebasedpidgin}
+ 1   33.86   10.85       -1850         pml
+1 I	mi //
+2 you	ti //
+18 person	umbre //
+21 dog	perro, cane //
+57 see	mirar //
+95 full	pyeno, inCito //",Oth,CREOLES_AND_PIDGINS,9747,1850
+"Creole,Frenchbased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Isle-de-FranceCreole",Oth.CREOLES_AND_PIDGINS,mori1278,mfe,mcr,,Creole,Indo-European,MAURITIAN,{},-20.33,False,57.5,,Mauritian,1135000,9749,False,"MAURITIAN{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Isle-de-FranceCreole}
+ 1  -20.33   57.50     1135000   mcr   mfe
+1 I	mo //
+2 you	to //
+3 we	nu //
+11 one	en //
+12 two	de //
+18 person	dimun, dumun //
+19 fish	pw~aso* //
+21 dog	lisy~E* //
+22 louse	lipu //
+23 tree	py~e //
+25 leaf	fey //
+28 skin	lapo //
+30 blood	disa* //
+31 bone	lezo //
+34 horn	kon //
+39 ear	zorey //
+40 eye	lizye //
+41 nose	nene //
+43 tooth	ledan //
+44 tongue	lalang~ //
+47 knee	zenu, zunu //
+48 hand	lame //
+51 breast	tete, dudu //
+53 liver	lefwa //
+54 drink	bw~ax //
+57 see	truv //
+58 hear	ta*de //
+61 die	mox //
+66 come	vini //
+72 sun	soley //
+74 star	zetw~al //
+75 water	delo //
+77 stone	%ros //
+82 fire	dife //
+85 path	sime //
+86 mountain	mo*ta5 //
+92 night	asw~ar, lanw~it //
+95 full	ra*pli //
+96 new	nuvo //
+100 name	no* //",Oth,CREOLES_AND_PIDGINS,9749,
+"Creole,Spanishbased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic,SouthCastilic",Oth.CREOLES_AND_PIDGINS,pale1260,pln,,,Creole,Indo-European,PALENQUERO,{},10.33,False,-75.33,,Palenquero,500,9760,False,"PALENQUERO{Oth.CREOLES_AND_PIDGINS|Creole,Spanishbased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic,SouthCastilic}
+ 1   10.33  -75.33         500         pln
+1 I	i //
+2 you	bo //
+3 we	suto //
+21 dog	pelo, pElo //
+30 blood	pala //
+39 ear	oleha //
+40 eye	oho //
+41 nose	nari //
+54 drink	bebe //
+61 die	luNga //
+66 come	mini //
+72 sun	so //
+75 water	apu //
+86 mountain	monde //",Oth,CREOLES_AND_PIDGINS,9760,
+"Creole,Portuguesebased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,Luso-AsianCreole",Oth.CREOLES_AND_PIDGINS,mala1533,mcm,mlc,,Creole,Indo-European,PAPIA_KRISTANG,{},2.2,False,102.27,,Papia Kristang,2150,9761,False,"PAPIA_KRISTANG{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,Luso-AsianCreole}
+ 1    2.20  102.27        2150   mlc   mcm
+1 I	yo //
+2 you	bos //
+3 we	nus //
+11 one	Nua //
+12 two	dos //
+18 person	je*ti, pesua //
+19 fish	pesi //
+21 dog	kaCoru //
+22 louse	piolu //
+23 tree	albi //
+25 leaf	fola //
+28 skin	kaska, peli //
+30 blood	sa*Ni //
+31 bone	osu //
+39 ear	ubida //
+40 eye	olu //
+41 nose	naris //
+43 tooth	de*ti //
+44 tongue	li*Nu //
+47 knee	nz~elu //
+48 hand	maN //
+51 breast	mama, tete //
+53 liver	fildu //
+54 drink	bebeh //
+57 see	olah //
+58 hear	ubih //
+61 die	mureh //
+66 come	beN //
+72 sun	sol //
+74 star	strela //
+75 water	agu //
+77 stone	pedra //
+82 fire	fogu //
+85 path	kami5u //
+86 mountain	mo*ta5a //
+92 night	a*uti //
+95 full	Ceu //
+96 new	nubu //
+100 name	nomi //",Oth,CREOLES_AND_PIDGINS,9761,
+"Creole,Iberianbased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,UpperGuineaPortuguese",Oth.CREOLES_AND_PIDGINS,papi1253,pap,pap,,Creole,Indo-European,PAPIAMENTO,{},12.25,False,-69.0,,Papiamento,321300,9762,False,"PAPIAMENTO{Oth.CREOLES_AND_PIDGINS|Creole,Iberianbased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,UpperGuineaPortuguese}
+ 1   12.25  -69.00      321300   pap   pap
+1 I	mi //
+2 you	bo, abo //
+3 we	anos, nos //
+11 one	un //
+12 two	dos //
+18 person	persona, hende //
+19 fish	piska //
+21 dog	kaCo //
+22 louse	pieu //
+23 tree	palo, palu //
+25 leaf	%blaCi //
+28 skin	kuero, kueru //
+30 blood	saNger, saNgro //
+31 bone	weso, wesu //
+34 horn	kaCo, kaCu //
+39 ear	horeya, orea //
+40 eye	%wowo //
+41 nose	naniSi //
+43 tooth	jente //
+44 tongue	leNga //
+47 knee	rudia //
+48 hand	man //
+51 breast	peCu, tete //
+53 liver	higra, igra //
+54 drink	bebe //
+57 see	mira, bishita //
+58 hear	tende //
+61 die	dou, muri //
+66 come	bin, bini //
+72 sun	solo //
+74 star	strea, streya //
+75 water	awa //
+77 stone	pieda, piedra //
+82 fire	kandela //
+85 path	kaminda, karetera //
+86 mountain	sero, seru //
+92 night	noCi //
+95 full	yen //
+96 new	nobo //
+100 name	nomber, nombro //",Oth,CREOLES_AND_PIDGINS,9762,
+"Creole,Portuguesebased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,LowerGuineaPortuguese,Saotomense-Principense",Oth.CREOLES_AND_PIDGINS,prin1242,pre,pri,,Creole,Indo-European,PRINCIPENSE,{},1.62,False,7.37,,Principense,200,9767,False,"PRINCIPENSE{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,LowerGuineaPortuguese,Saotomense-Principense}
+ 1    1.62    7.37         200   pri   pre
+1 I	ami //
+3 we	no //
+12 two	dosu //
+18 person	%ni*ge //
+19 fish	peSi //
+21 dog	kaso //
+22 louse	%idu //
+23 tree	alvure, %upa //
+25 leaf	fya, ufya //
+30 blood	isE*gi //
+31 bone	osu //
+34 horn	Sifi //
+39 ear	urya //
+40 eye	uwe //
+41 nose	%iriSi //
+43 tooth	idi*Ti //
+47 knee	uze //
+48 hand	uma* //
+51 breast	mama //
+54 drink	bebe //
+58 hear	te*de //
+61 die	mwe, more //
+66 come	%Siga //
+72 sun	isolu //
+74 star	tEla //
+75 water	awa //
+77 stone	pEda //
+82 fire	ufogo, ufogu //
+85 path	%ulatu //
+86 mountain	%okye //
+92 night	unoTi //
+96 new	novu //
+100 name	nomi //",Oth,CREOLES_AND_PIDGINS,9767,
+"Creole,Frenchbased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French",Oth.CREOLES_AND_PIDGINS,reun1238,rcf,,,Creole,Indo-European,REUNIONNAIS,{},-21.17,False,55.5,,Reunionnais,455000,9768,False,"REUNIONNAIS{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French}
+ 1  -21.17   55.50      455000         rcf
+1 I	mwe*, mi //
+2 you	u //
+3 we	nu //
+11 one	e*n //
+12 two	de //
+18 person	%mun //
+19 fish	pwaso* //
+21 dog	sje* //
+22 louse	pu //
+23 tree	pjedbwa //
+25 leaf	fej //
+28 skin	po //
+30 blood	sa* //
+31 bone	zo //
+34 horn	korn //
+39 ear	zorej //
+40 eye	zje //
+41 nose	ne //
+43 tooth	da* //
+44 tongue	la*g //
+47 knee	zonu //
+48 hand	me* //
+51 breast	tete //
+53 liver	fwa //
+54 drink	bwar //
+57 see	vwa //
+58 hear	a*ta* //
+61 die	mor //
+66 come	vje* //
+72 sun	solej //
+74 star	zetwal //
+75 water	lo, dilo //
+77 stone	%gale //
+82 fire	fe //
+85 path	some* //
+86 mountain	mo*tan //
+92 night	nwi //
+95 full	ple* //
+96 new	nuvo //
+100 name	no* //",Oth,CREOLES_AND_PIDGINS,9768,
+"Creole,Portuguesebased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,LowerGuineaPortuguese,Saotomense-Principense",Oth.CREOLES_AND_PIDGINS,saot1239,cri,,,Creole,Indo-European,SANTOMENSE,{},0.3,False,6.62,,Santomense,83000,9769,False,"SANTOMENSE{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,LowerGuineaPortuguese,Saotomense-Principense}
+ 1    0.30    6.62       83000         cri
+1 I	ami //
+2 you	bo //
+3 we	no* //
+12 two	dosu //
+18 person	ng~e //
+19 fish	piSi //
+21 dog	kaso //
+22 louse	ilu //
+23 tree	po //
+25 leaf	fia //
+28 skin	pEli //
+30 blood	sang~i //
+31 bone	oso //
+34 horn	konEta //
+39 ear	oreya //
+40 eye	we //
+41 nose	liSi //
+43 tooth	dEnc~i //
+44 tongue	lingw$a //
+47 knee	zunt~a //
+48 hand	mo* //
+51 breast	mama //
+53 liver	figaru //
+54 drink	bebe //
+57 see	bE, pia //
+58 hear	tend~i //
+61 die	moli, mui //
+66 come	bi //
+72 sun	solo //
+74 star	StlEla //
+75 water	awa //
+77 stone	mb~uru //
+82 fire	fogo //
+85 path	Stlada //
+86 mountain	oke //
+92 night	noci //
+95 full	Sa //
+96 new	novu //
+100 name	nomi //",Oth,CREOLES_AND_PIDGINS,9769,
+"Creole,Frenchbased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Isle-de-FranceCreole",Oth.CREOLES_AND_PIDGINS,sese1246,crs,sey,,Creole,Indo-European,SEYCHELLES_CREOLE,{},-4.75,False,55.5,,Seychelles Creole,80200,9772,False,"SEYCHELLES_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Isle-de-FranceCreole}
+ 1   -4.75   55.50       80200   sey   crs
+1 I	mo* //
+3 we	nu //
+11 one	en //
+12 two	de //
+18 person	dimun, za*s //
+19 fish	lapes //
+21 dog	lisye* //
+23 tree	pye, dibw~a //
+25 leaf	fey //
+28 skin	pe //
+30 blood	disa* //
+31 bone	lezo //
+39 ear	zorey //
+40 eye	lizye //
+43 tooth	leda* //
+44 tongue	la*gaz //
+48 hand	lame* //
+51 breast	lasen //
+53 liver	lafwa //
+54 drink	bw~ar //
+57 see	war, truv //
+58 hear	ta*n, ta*de //
+61 die	mor //
+66 come	vin //
+72 sun	soley //
+75 water	delo, dilo //
+77 stone	ros //
+82 fire	dife //
+85 path	seme*, sime* //
+86 mountain	mo*tay //
+92 night	lanwit, fernwar //
+95 full	ple* //
+96 new	nuvo //
+100 name	no* //",Oth,CREOLES_AND_PIDGINS,9772,
+"Creole,Frenchbased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Isle-de-FranceCreole",Oth.CREOLES_AND_PIDGINS,sese1246,crs,sey,,Creole,Indo-European,SEYCHELLES_CREOLE_2,{},-4.75,False,55.5,,Seychelles Creole 2,80200,9773,False,"SEYCHELLES_CREOLE_2{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Isle-de-FranceCreole}
+ 1   -4.75   55.50       80200   sey   crs
+1 I	mo*, mwa* //
+2 you	u //
+3 we	nu //
+11 one	en //
+12 two	de //
+18 person	ime* //
+19 fish	pwaso* //
+21 dog	lisye* //
+22 louse	%kinday, lipu //
+23 tree	bwa, pye //
+25 leaf	fey //
+28 skin	lapo //
+30 blood	disa* //
+31 bone	lezo //
+34 horn	korn //
+39 ear	zorey //
+40 eye	lizye //
+41 nose	ne*ne* //
+43 tooth	leda*, %meno //
+44 tongue	lala*g //
+47 knee	zenu //
+48 hand	la*me* //
+51 breast	tete, totot //
+53 liver	lefwa //
+54 drink	bwar, tape //
+57 see	war //
+58 hear	a*tan, tan //
+61 die	kas lapay, la*mor, mor //
+66 come	vini //
+72 sun	soley //
+74 star	zetwal //
+75 water	delo, dilo //
+77 stone	pyer, ros, rose //
+82 fire	dife //
+85 path	sa*tye //
+86 mountain	mo*ta5, oter //
+92 night	aswar, la*nwit //
+95 full	ple*, ra*pli //
+96 new	modern, nuvo //
+100 name	no* //",Oth,CREOLES_AND_PIDGINS,9773,
+"Creole,Frenchbased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench,LesserAntilleanFrenchCreole,Lucia-MiguelCreoleFrench",Oth.CREOLES_AND_PIDGINS,sain1246,acf,lcr,,Creole,Indo-European,ST_LUCIAN_CREOLE_FRENCH,{},13.87,False,-60.98,,St Lucian Creole French,359450,9775,False,"ST_LUCIAN_CREOLE_FRENCH{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench,LesserAntilleanFrenchCreole,Lucia-MiguelCreoleFrench}
+ 1   13.87  -60.98      359450   lcr   acf
+1 I	mw~E* //
+2 you	wu //
+3 we	nu //
+11 one	yo*, o* //
+12 two	de //
+18 person	pEso*, kawaktE //
+19 fish	pw~aso*, pw~eso* //
+21 dog	SiE* //
+22 louse	pu //
+23 tree	piebw~a //
+25 leaf	fEi //
+28 skin	lapo, fEi di paSmE* //
+30 blood	sa*, tepewama* //
+31 bone	zo //
+34 horn	ko* //
+39 ear	zowEi //
+40 eye	zie, lavi //
+41 nose	ne //
+43 tooth	da* //
+44 tongue	laN //
+47 knee	Zunu //
+48 hand	la*mE*, siyati //
+51 breast	sE*, tete //
+54 drink	bw~E //
+57 see	wE, apEsivwE //
+58 hear	tan, tan di //
+61 die	mo, muwi //
+66 come	vini, wive //
+72 sun	solEi //
+74 star	etw~al //
+75 water	dlo //
+77 stone	piE //
+82 fire	dife, a*sa*di //
+85 path	SimE*, ti ale //
+86 mountain	mo*tani, mo* //
+92 night	lanwit, swE //
+95 full	plE*, wa*pli //
+96 new	nEf //
+100 name	no* //",Oth,CREOLES_AND_PIDGINS,9775,
+"Creole,Spanishbased","Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic,SouthCastilic,Ternate-Zamboanga-Cavite",Oth.CREOLES_AND_PIDGINS,chav1241,cbk,cvc,,Creole,Indo-European,ZAMBOANGUENO,{},7.0,False,122.08,,Zamboangueno,431000,9784,False,"ZAMBOANGUENO{Oth.CREOLES_AND_PIDGINS|Creole,Spanishbased@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic,SouthCastilic,Ternate-Zamboanga-Cavite}
+ 1    7.00  122.08      431000   cvc   cbk
+1 I	yo //
+2 you	ebos //
+3 we	%kita //
+11 one	uno //
+12 two	dos //
+18 person	he*te //
+19 fish	peskaw //
+21 dog	%iru, perro //
+22 louse	%kutu //
+23 tree	%pu*o, arbol //
+25 leaf	ohas //
+28 skin	py~el //
+30 blood	sa*Nre //
+31 bone	weso //
+34 horn	kw~erno //
+39 ear	orehas //
+40 eye	oho //
+41 nose	naris //
+43 tooth	dy~e*te //
+44 tongue	le*Nw~a //
+47 knee	rudily~a //
+48 hand	ma*o //
+51 breast	teta, peCo //
+53 liver	igaw //
+54 drink	toma //
+57 see	mira //
+58 hear	si*ti //
+61 die	mori //
+66 come	be*i //
+72 sun	sol //
+74 star	estrely~a //
+75 water	agw~a //
+77 stone	py~edra //
+82 fire	pw~ego //
+85 path	se*dero //
+86 mountain	%bu*dak //
+92 night	noCe //
+95 full	ly~e*o //
+96 new	nw~ebo //
+100 name	nomb~re //",Oth,CREOLES_AND_PIDGINS,9784,
