@@ -1,5 +1,5 @@
 import streamlit as st
-import os
+import sys
 import coloredlogs, logging
 
 coloredlogs.install()
