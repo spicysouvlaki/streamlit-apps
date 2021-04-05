@@ -13,12 +13,6 @@ logging.info("beep boop")
 logging.error("boop beep")
 logging.warning("ACK ACK!!")
 logging.debug("I love Streamlit")
-printInColor = st.checkbox("press to log colours")
-justPrint = st.checkbox("just print")
 
-if printInColor:
-    logging.info("colorful")
-
-if justPrint:
-    print("just printing")
-
+user_input = st.text_input("test out logging here")
+print(user_input)
