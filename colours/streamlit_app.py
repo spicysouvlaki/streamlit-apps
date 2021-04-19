@@ -19,22 +19,25 @@ logging.critical("I love Streamlit")
 st.write("these codes are manually configured and just exist for samples")
 from colorama import Fore, Back, Style
 palette = [
-    Fore.RED + "red color: #ff4b4b",
-    Back.RED + "red background-color: #ff4b4b",
-    Fore.BLUE+"blue color: #1c83e1",
-    Back.BLUE+"blue background-color: #1c83e1",
-    Fore.CYAN+"cyan color: #00c0f2",
-    Back.CYAN+"cyan background-color: #00c0f2",
-    Fore.WHITE+"white color: #000",
-    Back.White+Fore.BLACK+"black on white background-color: #000",
-    Back.BLACK+Fore.WHITE+"white on black background-color: #fff",
-    Fore.GREEN+"green color: #21c454",
-    Back.GREEN+"green background-color: #21c454",
-    Fore.YELLOW+"yellow color: #ffe312",
-    Back.YELLOW+"yellow background-color: #ffe312",
-    Fore.MAGENTA+"magenta color: #f63366",
-    Back.MAGENTA+"magenta background-color: #f63366",
+    Fore.RED + "red lorem ipsum fooem barem",
+    Back.RED + "red background-lorem ipsum fooem barem",
+    Fore.BLUE+"blue lorem ipsum fooem barem",
+    Back.BLUE+"blue background-lorem ipsum fooem barem",
+    Fore.CYAN+"cyan lorem ipsum fooem barem",
+    Back.CYAN+"cyan background-lorem ipsum fooem barem",
+    Fore.WHITE+"white lorem ipsum fooem barem",
+    Back.WHITE+Fore.BLACK+"black on white background-lorem ipsum fooem barem",
+    Back.BLACK+Fore.WHITE+"white on black background-lorem ipsum fooem barem",
+    Fore.GREEN+"green lorem ipsum fooem barem",
+    Back.GREEN+"green background-lorem ipsum fooem barem",
+    Fore.YELLOW+"yellow lorem ipsum fooem barem",
+    Back.YELLOW+"yellow background-lorem ipsum fooem barem",
+    Fore.MAGENTA+"magenta lorem ipsum fooem barem",
+    Back.MAGENTA+"magenta background-lorem ipsum fooem barem",
 ]
+
+for s in palette:
+    print(s)
 
 user_input = st.text_input("test out logging here", value='🎈 welcome to my demo 🎈')
 logging.info(user_input)
